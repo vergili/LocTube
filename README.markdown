@@ -52,7 +52,8 @@ Open:http://127.0.0.1:5000
 it will create a LocationsList txt files for every 30 location from 
 http://en.wikipedia.org/wiki/List_of_archaeological_sites_by_country
 
-this page includes many ancient cities information with coordinates 
+this page includes many ancient cities information with coordinates. 
+You can always use a wikipedia page like above page format to create your train data.
 
 Note: This process is very slow  ones a list done you can start to use it for video crawling. 
 
