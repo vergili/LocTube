@@ -8,7 +8,7 @@ you gonna see a list on google map.
 
 ## SETUP  (Please do not forget to fix below BUG for geoalchemy package)
 
-Clone.
+	Clone:
     git clone https://github.com/vergili/loctube loctube
     
     $ virtualenv env 
@@ -22,13 +22,13 @@ Clone.
     
     change SQLALCHEMY_DATABASE_URI for your database connection  in loctube/config.py
   
-create database and your admin account
+	create database and your admin account:
     python manage.py initdb
  
-Start 
+	Start: 
     python manage.py run
 
-Open
+	Open:
     http://127.0.0.1:5000  
    
 ## BUG in the geoalchemy package
