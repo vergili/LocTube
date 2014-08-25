@@ -1,0 +1,1454 @@
+1, Ai Khanoum, 37.160454, 69.412449, http://en.wikipedia.org/wiki/Ai-Khanoum
+2, Bagram, 34.966667,69.3, http://en.wikipedia.org/wiki/Bagram
+3, Buddhas of Bamiyan, 34.832042,67.826803, http://en.wikipedia.org/wiki/Buddhas_of_Bamiyan
+4, Balkh, 36.773056,66.873611, http://en.wikipedia.org/wiki/Balkh
+5, Mes Aynak, 34.4,69.366667, http://en.wikipedia.org/wiki/Mes_Aynak
+6, Surkh Kotal, 36.05,68.566667, http://en.wikipedia.org/wiki/Surkh_Kotal
+7, Tillya Tepe, 36.7,65.787, http://en.wikipedia.org/wiki/Tillya_Tepe
+8, Amantia, 40.376944,19.699722, http://en.wikipedia.org/wiki/Amantia
+9, Berat, 40.7,19.95, http://en.wikipedia.org/wiki/Berat
+10, Apollonia (Illyria), 40.716667,19.466667, http://en.wikipedia.org/wiki/Apollonia_(Illyria)
+11, Buthrotum, 39.746111,20.020278, http://en.wikipedia.org/wiki/Buthrotum
+12, Byllis, 40.5403,19.7375, http://en.wikipedia.org/wiki/Byllis
+13, Dimale, 40.716389,19.796944, http://en.wikipedia.org/wiki/Dimale
+14, Durr%C3%ABs, 41.316667,19.45, http://en.wikipedia.org/wiki/Durr%C3%ABs
+15, Lezh%C3%AB, 41.783333,19.633333, http://en.wikipedia.org/wiki/Lezh%C3%AB
+16, Oricum, 40.318889,19.428611, http://en.wikipedia.org/wiki/Oricum
+17, Phoenice, 39.913333,20.057778, http://en.wikipedia.org/wiki/Phoenice
+18, Finiq, 39.9,20.05, http://en.wikipedia.org/wiki/Finiq
+19, Shkod%C3%ABr, 42.066667,19.5, http://en.wikipedia.org/wiki/Shkod%C3%ABr
+20, A%C3%AFn Turk, Bou%C3%AFra, 36.36,3.9, http://en.wikipedia.org/wiki/A%C3%AFn_Turk,_Bou%C3%AFra
+21, Altava, 34.886389,-1.024722, http://en.wikipedia.org/wiki/Altava
+22, Beni Hammad Fort, 35.813889,4.793333, http://en.wikipedia.org/wiki/Beni_Hammad_Fort
+23, Bir el Ater, 34.749722,8.057778, http://en.wikipedia.org/wiki/Bir_el_Ater
+24, Cirta, 36.3675,6.611944, http://en.wikipedia.org/wiki/Cirta
+25, Diana Veteranorum, 35.779444,6.075278, http://en.wikipedia.org/wiki/Diana_Veteranorum
+26, Dj%C3%A9mila, 36.316667,5.733333, http://en.wikipedia.org/wiki/Dj%C3%A9mila
+27, Gemellae, 34.636598,5.522904, http://en.wikipedia.org/wiki/Gemellae
+28, Oricum, 40.318889,19.428611, http://en.wikipedia.org/wiki/Oricum
+29, Hammam Essalihine, 35.440278,7.084444, http://en.wikipedia.org/wiki/Hammam_Essalihine
+30, Hippo Regius, 36.9,7.766667, http://en.wikipedia.org/wiki/Hippo_Regius
+31, Lambaesis, 35.488889,6.255833, http://en.wikipedia.org/wiki/Lambaesis
+32, Mila, Algeria, 36.450278,6.264444, http://en.wikipedia.org/wiki/Mila,_Algeria
+33, Miliana, 36.3,2.233333, http://en.wikipedia.org/wiki/Miliana
+34, Roknia, 36.55,7.233333, http://en.wikipedia.org/wiki/Roknia
+35, Royal Mausoleum of Mauretania, 36.574722,2.553333, http://en.wikipedia.org/wiki/Royal_Mausoleum_of_Mauretania
+36, Tassili n%27Ajjer, 25.166667,8.166667, http://en.wikipedia.org/wiki/Tassili_n%27Ajjer
+37, Timgad, 35.484167,6.468611, http://en.wikipedia.org/wiki/Timgad
+38, Tipaza, 36.591944,2.449444, http://en.wikipedia.org/wiki/Tipaza
+39, Cueva de las Manos, -47.155278,-70.655278, http://en.wikipedia.org/wiki/Cueva_de_las_Manos
+40, Pucar%C3%A1 de Tilcara, -23.588611,-65.402778, http://en.wikipedia.org/wiki/Pucar%C3%A1_de_Tilcara
+41, Ruins of Quilmes, -26.463812,-66.03796, http://en.wikipedia.org/wiki/Ruins_of_Quilmes
+42, Talampaya National Park, -29.8,-67.833333, http://en.wikipedia.org/wiki/Talampaya_National_Park
+43, Tastil, -24.452261,-65.957144, http://en.wikipedia.org/wiki/Tastil
+44, Aramus, 40.251111,44.663056, http://en.wikipedia.org/wiki/Aramus,_Armenia
+45, Garni, 40.119444,44.723056, http://en.wikipedia.org/wiki/Garni
+46, Zvartnots Cathedral, 40.159714,44.336575, http://en.wikipedia.org/wiki/Zvartnots_Cathedral
+47, Lake Mungo, -33.75,143.083333, http://en.wikipedia.org/wiki/Lake_Mungo
+48, Cuddie Springs, -30.786944,147.478056, http://en.wikipedia.org/wiki/Cuddie_Springs
+49, Murujuga, -20.581,116.808, http://en.wikipedia.org/wiki/Murujuga
+50, Ngarrabullgan, -16.866667,144.75, http://en.wikipedia.org/wiki/Ngarrabullgan
+51, Keilor archaeological site, -37.704297,144.837889, http://en.wikipedia.org/wiki/Keilor_archaeological_site
+52, Kow Swamp Archaeological Site, -35.953553,144.318123, http://en.wikipedia.org/wiki/Kow_Swamp_Archaeological_Site
+53, Mount William stone axe quarry, -37.210516,144.810297, http://en.wikipedia.org/wiki/Mount_William_stone_axe_quarry
+54, Burgstallkogel (Sulm valley), 46.747742,15.409527, http://en.wikipedia.org/wiki/Burgstallkogel_(Sulm_valley)
+55, Gro%C3%9Fmugl, 48.516667,16.25, http://en.wikipedia.org/wiki/Gro%C3%9Fmugl
+56, Carnuntum, 48.116667,16.866667, http://en.wikipedia.org/wiki/Carnuntum
+57, Vindobona, 48.210833,16.370278, http://en.wikipedia.org/wiki/Vindobona
+58, Flavia Solva, 47.558,15.758, http://en.wikipedia.org/wiki/Flavia_Solva
+59, Virunum, 46.699167,14.365, http://en.wikipedia.org/wiki/Virunum
+60, Sigle%C3%9F, 47.783333,16.4, http://en.wikipedia.org/wiki/Sigle%C3%9F
+61, Barbar Temple, 26.22624,50.48403, http://en.wikipedia.org/wiki/Barbar_Temple
+62, Qal%27at al Bahrain, 26.233611,50.520556, http://en.wikipedia.org/wiki/Qal%27at_al-Bahrain
+63, Mahasthangarh, 24.961111,89.342778, http://en.wikipedia.org/wiki/Mahasthangarh
+64, Mosque City of Bagerhat, 22.6568,89.7964, http://en.wikipedia.org/wiki/Mosque_City_of_Bagerhat
+65, Somapura Mahavihara, 25.03102,88.97706, http://en.wikipedia.org/wiki/Somapura_Mahavihara
+66, Veldwezelt Hezerwater, 50.856,5.641, http://en.wikipedia.org/wiki/Veldwezelt-Hezerwater
+67, Cahal Pech, 17.155556,-89.061111, http://en.wikipedia.org/wiki/Cahal_Pech
+68, Caracol, 16.763889,-89.1175, http://en.wikipedia.org/wiki/Caracol
+69, Cerros, 18.358333,-88.351944, http://en.wikipedia.org/wiki/Cerros
+70, Cuello, 18.066667,-88.6, http://en.wikipedia.org/wiki/Cuello
+71, Lamanai, 17.7525,-88.654444, http://en.wikipedia.org/wiki/Lamanai
+72, Nim Li Punit, 16.316667,-88.8, http://en.wikipedia.org/wiki/Nim_Li_Punit
+73, Xunantunich, 17.083889,-89.133889, http://en.wikipedia.org/wiki/Xunantunich
+74, Chiripa, -16.477778,-68.831667, http://en.wikipedia.org/wiki/Chiripa
+75, El Fuerte de Samaipata, -18.175,-63.819444, http://en.wikipedia.org/wiki/El_Fuerte_de_Samaipata
+76, Iskanwaya, -15.494722,-68.673056, http://en.wikipedia.org/wiki/Iskanwaya
+77, Tiwanaku, -16.554722,-68.673333, http://en.wikipedia.org/wiki/Tiwanaku
+78, Butmir, 43.816667,18.333333, http://en.wikipedia.org/wiki/Butmir
+79, Daorson, 43.0833,17.9667, http://en.wikipedia.org/wiki/Daorson
+80, Amazon Stonehenge, 2.476667,-51.010556, http://en.wikipedia.org/wiki/Amazon_Stonehenge
+81, Kuhikugu, -12.558333,-53.111111, http://en.wikipedia.org/wiki/Kuhikugu
+82, Lagoa Santa, -19.626944,-43.89, http://en.wikipedia.org/wiki/Lagoa_Santa
+83, Pedra Furada sites, -8.833333,-42.553333, http://en.wikipedia.org/wiki/Pedra_Furada_sites
+84, Serra da Capivara National Park, -8.666667,-42.55, http://en.wikipedia.org/wiki/Serra_da_Capivara_National_Park
+85, Abritus, 43.521111,26.551667, http://en.wikipedia.org/wiki/Abritus
+86, Thracian tomb of Aleksandrovo, 41.979722,25.738056, http://en.wikipedia.org/wiki/Thracian_tomb_of_Aleksandrovo
+87, Castra Martis, 43.888889,22.522222, http://en.wikipedia.org/wiki/Castra_Martis
+88, Balchik, 43.416667,28.166667, http://en.wikipedia.org/wiki/Balchik
+89, Durankulak, 43.7,28.516667, http://en.wikipedia.org/wiki/Durankulak
+90, Heraclea Sintica, 41.433333,23.25, http://en.wikipedia.org/wiki/Heraclea_Sintica
+91, Hisarya, Bulgaria, 42.5,24.7, http://en.wikipedia.org/wiki/Hisarya,_Bulgaria
+92, Rock hewn Churches of Ivanovo, 43.716667,25.966667, http://en.wikipedia.org/wiki/Rock-hewn_Churches_of_Ivanovo
+93, Nicopolis ad Istrum, 43.217222,25.611111, http://en.wikipedia.org/wiki/Nicopolis_ad_Istrum
+94, Kabyle (ancient city), 42.550556,26.484167, http://en.wikipedia.org/wiki/Kabyle_(ancient_city)
+95, Thracian Tomb of Kazanlak, 42.62576,25.39919, http://en.wikipedia.org/wiki/Thracian_Tomb_of_Kazanlak
+96, Madara Rider, 43.3,27.15, http://en.wikipedia.org/wiki/Madara_Rider
+97, Marcianopolis, 43.225,27.585, http://en.wikipedia.org/wiki/Marcianopolis
+98, Mezek, 41.716667,26.066667, http://en.wikipedia.org/wiki/Mezek
+99, Nesebar, 42.65,27.733333, http://en.wikipedia.org/wiki/Nesebar
+100, Nicopolis ad Nestum, 41.595556,23.795833, http://en.wikipedia.org/wiki/Nicopolis_ad_Nestum
+101, Novae, 43.616667,25.35, http://en.wikipedia.org/wiki/Novae
+102, Oescus, 43.7,24.483333, http://en.wikipedia.org/wiki/Oescus
+103, Perperikon, 41.714722,25.465278, http://en.wikipedia.org/wiki/Perperikon
+104, Pliska, 43.387,27.132, http://en.wikipedia.org/wiki/Pliska
+105, Plovdiv Roman Stadium, 42.147568,24.748018, http://en.wikipedia.org/wiki/Plovdiv_Roman_Stadium
+106, Pomorie, 42.568333,27.616667, http://en.wikipedia.org/wiki/Pomorie
+107, Preslav, 43.166667,26.816667, http://en.wikipedia.org/wiki/Preslav
+108, Amphitheatre of Serdica, 42.697222,23.328333, http://en.wikipedia.org/wiki/Amphitheatre_of_Serdica
+109, Seuthopolis, 42.618056,25.305556, http://en.wikipedia.org/wiki/Seuthopolis
+110, Starosel, 42.483333,24.566667, http://en.wikipedia.org/wiki/Starosel
+111, Storgosia, 43.416667,24.616667, http://en.wikipedia.org/wiki/Storgosia
+112, Thracian Tomb of Sveshtari, 43.744964,26.7663, http://en.wikipedia.org/wiki/Thracian_Tomb_of_Sveshtari
+113, Varna Necropolis, 43.213056,27.864444, http://en.wikipedia.org/wiki/Varna_Necropolis
+114, Villa Armira, 41.499069,26.106264, http://en.wikipedia.org/wiki/Villa_Armira
+115, Angkor, 13.433333,103.833333, http://en.wikipedia.org/wiki/Angkor
+116, Ak Yum, 13.4246,103.777, http://en.wikipedia.org/wiki/Ak_Yum
+117, Angkor Thom, 13.4125,103.866667, http://en.wikipedia.org/wiki/Angkor_Thom
+118, Baphuon, 13.443611,103.855833, http://en.wikipedia.org/wiki/Baphuon
+119, Bayon, 13.441111,103.858611, http://en.wikipedia.org/wiki/Bayon
+120, Khleangs, 13.446944,103.860278, http://en.wikipedia.org/wiki/Khleangs
+121, Khleangs, 13.446944,103.860278, http://en.wikipedia.org/wiki/Khleangs
+122, Phimeanakas, 13.445556,103.855833, http://en.wikipedia.org/wiki/Phimeanakas
+123, Prasat Suor Prat, 13.446944,103.860278, http://en.wikipedia.org/wiki/Prasat_Suor_Prat
+124, Preah Palilay, 13.448889,103.855, http://en.wikipedia.org/wiki/Preah_Palilay
+125, Preah Pithu, 13.448889,103.861111, http://en.wikipedia.org/wiki/Preah_Pithu
+126, Preah Pithu, 13.448889,103.861111, http://en.wikipedia.org/wiki/Preah_Pithu
+127, Preah Pithu, 13.448889,103.861111, http://en.wikipedia.org/wiki/Preah_Pithu
+128, Preah Pithu, 13.448889,103.861111, http://en.wikipedia.org/wiki/Preah_Pithu
+129, Preah Pithu, 13.448889,103.861111, http://en.wikipedia.org/wiki/Preah_Pithu
+130, Terrace of the Elephants, 13.445833,103.858611, http://en.wikipedia.org/wiki/Terrace_of_the_Elephants
+131, Terrace of the Leper King, 13.448333,103.858611, http://en.wikipedia.org/wiki/Terrace_of_the_Leper_King
+132, Angkor Wat, 13.4125,103.866667, http://en.wikipedia.org/wiki/Angkor_Wat
+133, Baksei Chamkrong, 13.425312,103.858132, http://en.wikipedia.org/wiki/Baksei_Chamkrong
+134, Banteay Kdei, 13.429722,103.898333, http://en.wikipedia.org/wiki/Banteay_Kdei
+135, Banteay Srei, 13.598889,103.962778, http://en.wikipedia.org/wiki/Banteay_Srei
+136, Bat Chum, 13.424828,103.907586, http://en.wikipedia.org/wiki/Bat_Chum
+137, Beng Mealea, 13.476389,104.238333, http://en.wikipedia.org/wiki/Beng_Mealea
+138, Chau Say Tevoda, 13.445278,103.877778, http://en.wikipedia.org/wiki/Chau_Say_Tevoda
+139, East Baray, 13.44756,103.921909, http://en.wikipedia.org/wiki/East_Baray
+140, East Mebon, 13.446667,103.92, http://en.wikipedia.org/wiki/East_Mebon
+141, Kbal Spean, 13.708361,104.025583, http://en.wikipedia.org/wiki/Kbal_Spean
+142, Neak Pean, 13.463056,103.894444, http://en.wikipedia.org/wiki/Neak_Pean
+143, Phnom Bakheng, 13.42418,103.85601, http://en.wikipedia.org/wiki/Phnom_Bakheng
+144, Phnom Bok, 13.466111,103.981944, http://en.wikipedia.org/wiki/Phnom_Bok
+145, Phnom Kulen, 13.612778,104.1125, http://en.wikipedia.org/wiki/Phnom_Kulen
+146, Phnom Krom, 13.28573,103.81218, http://en.wikipedia.org/wiki/Phnom_Krom
+147, Pre Rup, 13.435473,103.920452, http://en.wikipedia.org/wiki/Pre_Rup
+148, Preah Khan, 13.461959,103.871591, http://en.wikipedia.org/wiki/Preah_Khan
+149, Roluos, 13.341944,103.972222, http://en.wikipedia.org/wiki/Roluos
+150, Bakong, 13.335987,103.974116, http://en.wikipedia.org/wiki/Bakong
+151, Lolei, 13.352778,103.973889, http://en.wikipedia.org/wiki/Lolei
+152, Preah Ko, 13.343889,103.972778, http://en.wikipedia.org/wiki/Preah_Ko
+153, Spean Thma, 13.444722,103.8775, http://en.wikipedia.org/wiki/Spean_Thma
+154, Ta Nei, 13.452222,103.885278, http://en.wikipedia.org/wiki/Ta_Nei
+155, Ta Prohm, 13.435,103.889167, http://en.wikipedia.org/wiki/Ta_Prohm
+156, Ta Som, 13.464444,103.912778, http://en.wikipedia.org/wiki/Ta_Som
+157, Thommanon, 13.446667,103.877222, http://en.wikipedia.org/wiki/Thommanon
+158, West Baray, 13.434245,103.800588, http://en.wikipedia.org/wiki/West_Baray
+159, West Mebon, 13.434636,103.800112, http://en.wikipedia.org/wiki/West_Mebon
+160, Sambor Prei Kuk, 12.867283,105.040025, http://en.wikipedia.org/wiki/Sambor_Prei_Kuk
+161, Oudong, 11.8,104.75, http://en.wikipedia.org/wiki/Oudong
+162, Wat Phnom, 11.576111,104.923056, http://en.wikipedia.org/wiki/Wat_Phnom
+163, Wat Ounalom, 11.567778,104.929722, http://en.wikipedia.org/wiki/Wat_Ounalom
+164, Koh Ker, 13.783333,104.533333, http://en.wikipedia.org/wiki/Koh_Ker
+165, Preah Khan Kompong Svay, 13.1925,104.900833, http://en.wikipedia.org/wiki/Preah_Khan_Kompong_Svay
+166, Preah Vihear Temple, 14.393056,104.680278, http://en.wikipedia.org/wiki/Preah_Vihear_Temple
+167, L%27Anse aux Meadows, 51.595267,-55.531222, http://en.wikipedia.org/wiki/L%27Anse_aux_Meadows
+168, Head Smashed In Buffalo Jump, 49.749444,-113.625, http://en.wikipedia.org/wiki/Head-Smashed-In_Buffalo_Jump
+169, Turtle Mountain Provincial Park, 49.043333,-100.186667, http://en.wikipedia.org/wiki/Turtle_Mountain_Provincial_Park
+170, Whiteshell Provincial Park, 49.916667,-95.333333, http://en.wikipedia.org/wiki/Whiteshell_Provincial_Park
+171, X%C3%A1:ytem, 49.151389,-122.251667, http://en.wikipedia.org/wiki/X%C3%A1:ytem
+172, Harrison Hill, 49.223889,-121.957222, http://en.wikipedia.org/wiki/Harrison_Hill
+173, Belcarra Regional Park, 49.3184,-122.8936, http://en.wikipedia.org/wiki/Belcarra_Regional_Park
+174, Bluefish Caves, 64.135278,-140.518611, http://en.wikipedia.org/wiki/Bluefish_Caves
+175, Native Point, 63.73,-82.51, http://en.wikipedia.org/wiki/Native_Point
+176, Ninstints, 52.098889,-131.2175, http://en.wikipedia.org/wiki/Ninstints
+177, Ovayok Territorial Park, 69.178611,-104.727222, http://en.wikipedia.org/wiki/Ovayok_Territorial_Park
+178, Petroglyphs Provincial Park, 44.615225,-78.04076, http://en.wikipedia.org/wiki/Petroglyphs_Provincial_Park
+179, Pointe %C3%A0 Calli%C3%A8re Museum, 45.5026,-73.5542, http://en.wikipedia.org/wiki/Pointe-%C3%A0-Calli%C3%A8re_Museum
+180, Sheguiandah, 45.91,-81.925, http://en.wikipedia.org/wiki/Sheguiandah
+181, Skedans, 52.964444,-131.608056, http://en.wikipedia.org/wiki/Skedans
+182, Southwold Earthworks, 42.67425,-81.359634, http://en.wikipedia.org/wiki/Southwold_Earthworks
+183, St. Mary Reservoir, 49.320833,-113.211667, http://en.wikipedia.org/wiki/St._Mary_Reservoir
+184, Strathcona Science Provincial Park, 53.560833,-113.383889, http://en.wikipedia.org/wiki/Strathcona_Science_Provincial_Park
+185, Easter Island, -27.116667,-109.366667, http://en.wikipedia.org/wiki/Easter_Island
+186, Rano Raraku, -27.123889,-109.286111, http://en.wikipedia.org/wiki/Rano_Raraku
+187, Orongo, -27.189444,-109.4425, http://en.wikipedia.org/wiki/Orongo
+188, Monte Verde, -41.504722,-73.204444, http://en.wikipedia.org/wiki/Monte_Verde
+189, Cami%C3%B1a, -19.312778,-69.426111, http://en.wikipedia.org/wiki/Cami%C3%B1a
+190, Tulor, -22.968056,-68.2425, http://en.wikipedia.org/wiki/Tulor
+191, Anyang, 36.1,114.333333, http://en.wikipedia.org/wiki/Anyang
+192, Chang%27an, 34.266667,108.9, http://en.wikipedia.org/wiki/Chang%27an
+193, Chengtoushan, 29.691667,111.655556, http://en.wikipedia.org/wiki/Chengtoushan
+194, Jiahu, 33.583333,113.7, http://en.wikipedia.org/wiki/Jiahu
+195, Lajia, 35.827778,102.854167, http://en.wikipedia.org/wiki/Lajia
+196, Peking Man, 39.733,115.917, http://en.wikipedia.org/wiki/Peking_Man
+197, Zhoukoudian, 39.689167,115.923889, http://en.wikipedia.org/wiki/Zhoukoudian
+198, Beijing, 39.913889,116.391667, http://en.wikipedia.org/wiki/Beijing
+199, Terracotta Army, 34.384919,109.273108, http://en.wikipedia.org/wiki/Terracotta_Army
+200, Xi%27an, 34.266667,108.9, http://en.wikipedia.org/wiki/Xi%27an
+201, Museum of the Mausoleum of the Nanyue King, 23.140378,113.256153, http://en.wikipedia.org/wiki/Museum_of_the_Mausoleum_of_the_Nanyue_King
+202, Guangzhou, 23.133333,113.266667, http://en.wikipedia.org/wiki/Guangzhou
+203, Yinxu, 36.139444,114.303056, http://en.wikipedia.org/wiki/Yinxu
+204, San Agust%C3%ADn, Huila, 1.9,-76.283333, http://en.wikipedia.org/wiki/San_Agust%C3%ADn,_Huila
+205, Tierradentro, 2.583,-76.033, http://en.wikipedia.org/wiki/Tierradentro
+206, Ciudad Perdida, 11.037997,-73.925192, http://en.wikipedia.org/wiki/Ciudad_Perdida
+207, Sierra Nevada de Santa Marta, 10.866667,-73.72, http://en.wikipedia.org/wiki/Sierra_Nevada_de_Santa_Marta
+208, Bogot%C3%A1, 4.598056,-74.075833, http://en.wikipedia.org/wiki/Bogot%C3%A1
+209, Villa de Leyva, 5.633333,-73.533333, http://en.wikipedia.org/wiki/Villa_de_Leyva
+210, El Infiernito, 5.647397,-73.558725, http://en.wikipedia.org/wiki/El_Infiernito
+211, El morro del tulc%C3%A1n, 2.444444,-76.6, http://en.wikipedia.org/wiki/El_morro_del_tulc%C3%A1n
+212, Burnum, 44.0181,16.0258, http://en.wikipedia.org/wiki/Burnum
+213, Monkodonja, 45.070556,13.698056, http://en.wikipedia.org/wiki/Monkodonja
+214, Narona, 43.046389,17.598611, http://en.wikipedia.org/wiki/Narona
+215, Nesactium, 44.916667,13.969722, http://en.wikipedia.org/wiki/Nesactium
+216, Pula Arena, 44.873,13.85, http://en.wikipedia.org/wiki/Pula_Arena
+217, Stari Grad Plain, 43.181667,16.638611, http://en.wikipedia.org/wiki/Stari_Grad_Plain
+218, Antiphonitis, 35.333333,33.616667, http://en.wikipedia.org/wiki/Antiphonitis
+219, Enkomi, 35.158333,33.891111, http://en.wikipedia.org/wiki/Enkomi
+220, Khirokitia, 34.796725,33.343719, http://en.wikipedia.org/wiki/Khirokitia
+221, Klimonas, 34.71255,33.133736, http://en.wikipedia.org/wiki/Klimonas
+222, Kykkos Monastery, 34.984,32.741, http://en.wikipedia.org/wiki/Kykkos_Monastery
+223, Notre Dame de Tyre, 35.175,33.3582, http://en.wikipedia.org/wiki/Notre_Dame_de_Tyre
+224, Panagia Apsinthiotissa, 35.283333,33.3875, http://en.wikipedia.org/wiki/Panagia_Apsinthiotissa
+225, Paphos, 34.766667,32.416667, http://en.wikipedia.org/wiki/Paphos
+226, Salamis, Cyprus, 35.183333,33.9, http://en.wikipedia.org/wiki/Salamis,_Cyprus
+227, Aggersborg, 56.995444,9.254944, http://en.wikipedia.org/wiki/Aggersborg
+228, Fyrkat, 56.623333,9.770556, http://en.wikipedia.org/wiki/Fyrkat
+229, Klekkende H%C3%B8j, 54.9362,12.1642, http://en.wikipedia.org/wiki/Klekkende_H%C3%B8j
+230, Lindholm H%C3%B8je, 57.077222,9.9125, http://en.wikipedia.org/wiki/Lindholm_H%C3%B8je
+231, Skuldelev ships, 55.801,12.0584, http://en.wikipedia.org/wiki/Skuldelev_ships
+232, Agua Blanca, Ecuador, -1.533333,-80.733333, http://en.wikipedia.org/wiki/Agua_Blanca,_Ecuador
+233, Ingapirca, -2.548588,-78.87188, http://en.wikipedia.org/wiki/Ingapirca
+234, Tumebamba, -2.899167,-79.013889, http://en.wikipedia.org/wiki/Tumebamba
+235, Abydos, Egypt, 26.185,31.918889, http://en.wikipedia.org/wiki/Abydos,_Egypt
+236, Alexandria, 31.198,29.9192, http://en.wikipedia.org/wiki/Alexandria
+237, Amarna, 27.661667,30.905556, http://en.wikipedia.org/wiki/Amarna
+238, Colossi of Memnon, 25.720556,32.610556, http://en.wikipedia.org/wiki/Colossi_of_Memnon
+239, Deir el Medina, 25.728889,32.601389, http://en.wikipedia.org/wiki/Deir_el-Medina
+240, Edfu, 24.977778,32.873333, http://en.wikipedia.org/wiki/Edfu
+241, Esna, 25.3,32.55, http://en.wikipedia.org/wiki/Esna
+242, Giza, 30.016667,31.216667, http://en.wikipedia.org/wiki/Giza
+243, Heliopolis (ancient), 30.129528,31.288889, http://en.wikipedia.org/wiki/Heliopolis_(ancient)
+244, Luxor Temple, 25.7,32.639167, http://en.wikipedia.org/wiki/Luxor_Temple
+245, Oxyrhynchus, 28.535969,30.655336, http://en.wikipedia.org/wiki/Oxyrhynchus
+246, Philae, 24.025278,32.884167, http://en.wikipedia.org/wiki/Philae
+247, Ramesseum, 25.727778,32.610556, http://en.wikipedia.org/wiki/Ramesseum
+248, Valley of the Kings, 25.740833,32.602222, http://en.wikipedia.org/wiki/Valley_of_the_Kings
+249, Cara Sucia (Mesoamerican site), 13.776867,-90.04525, http://en.wikipedia.org/wiki/Cara_Sucia_(Mesoamerican_site)
+250, Joya de Cer%C3%A9n, 13.8275,-89.369167, http://en.wikipedia.org/wiki/Joya_de_Cer%C3%A9n
+251, Quelepa, 13.529444,-88.221667, http://en.wikipedia.org/wiki/Quelepa
+252, San Andr%C3%A9s, El Salvador, 13.800556,-89.389444, http://en.wikipedia.org/wiki/San_Andr%C3%A9s,_El_Salvador
+253, Tazumal, 13.979444,-89.674167, http://en.wikipedia.org/wiki/Tazumal
+254, Rebala, Estonia, 59.45,25.1, http://en.wikipedia.org/wiki/Rebala,_Estonia
+255, Ukonkivi, 68.938778,27.292306, http://en.wikipedia.org/wiki/Ukonkivi
+256, Wolf Cave, 62.303008,21.671536, http://en.wikipedia.org/wiki/Wolf_Cave
+257, Terra Amata (archaeological site), 43.697778,7.289444, http://en.wikipedia.org/wiki/Terra_Amata_(archaeological_site)
+258, Chauvet Cave, 44.387612,4.414058, http://en.wikipedia.org/wiki/Chauvet_Cave
+259, Lascaux, 45.049167,1.176111, http://en.wikipedia.org/wiki/Lascaux
+260, Glanum, 43.773889,4.8325, http://en.wikipedia.org/wiki/Glanum
+261, Armazi, 41.816667,44.666667, http://en.wikipedia.org/wiki/Armazi
+262, Dmanisi, 41.316667,44.35, http://en.wikipedia.org/wiki/Dmanisi
+263, Nokalakevi, 42.357222,42.193889, http://en.wikipedia.org/wiki/Nokalakevi
+264, Vani, 42.083333,42.5, http://en.wikipedia.org/wiki/Vani
+265, Bilzingsleben (Paleolithic site), 51.281111,11.068611, http://en.wikipedia.org/wiki/Bilzingsleben_(Paleolithic_site)
+266, Warrior of Hirschlanden, 48.833056,9.011111, http://en.wikipedia.org/wiki/Warrior_of_Hirschlanden
+267, K%C3%B6nigsaue, 51.816667,11.4, http://en.wikipedia.org/wiki/K%C3%B6nigsaue
+268, Federsee, 48.083333,9.633333, http://en.wikipedia.org/wiki/Federsee
+269, Aegina, 37.75,23.433333, http://en.wikipedia.org/wiki/Aegina
+270, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+271, Aigeira, 38.15,22.35, http://en.wikipedia.org/wiki/Aigeira
+272, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+273, Aigosthena, 38.1475,23.228611, http://en.wikipedia.org/wiki/Aigosthena
+274, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+275, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+276, Akrotiri (Santorini), 36.351389,25.403611, http://en.wikipedia.org/wiki/Akrotiri_(Santorini)
+277, Santorini, 36.416667,25.433333, http://en.wikipedia.org/wiki/Santorini
+278, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+279, Alifeira, 37.55,21.816667, http://en.wikipedia.org/wiki/Alifeira
+280, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+281, Amphiareion of Oropos, 38.291389,23.845556, http://en.wikipedia.org/wiki/Amphiareion_of_Oropos
+282, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+283, Amphipolis, 40.816667,23.85, http://en.wikipedia.org/wiki/Amphipolis
+284, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+285, Amykles, 37.033333,22.433333, http://en.wikipedia.org/wiki/Amykles
+286, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+287, Anafi, 36.366667,25.783333, http://en.wikipedia.org/wiki/Anafi
+288, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+289, Anemospilia, 35.255444,25.144528, http://en.wikipedia.org/wiki/Anemospilia
+290, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+291, Anthidona, 38.483333,23.45, http://en.wikipedia.org/wiki/Anthidona
+292, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+293, Lesbos, 39.166667,26.333333, http://en.wikipedia.org/wiki/Lesbos
+294, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+295, Aptera, Greece, 35.4629,24.142, http://en.wikipedia.org/wiki/Aptera,_Greece
+296, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+297, Archanes, 35.233333,25.166667, http://en.wikipedia.org/wiki/Archanes
+298, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+299, Argos, 37.616667,22.716667, http://en.wikipedia.org/wiki/Argos
+300, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+301, Lesbos, 39.166667,26.333333, http://en.wikipedia.org/wiki/Lesbos
+302, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+303, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+304, Arta, Greece, 39.15,20.983333, http://en.wikipedia.org/wiki/Arta,_Greece
+305, Ambracia, 39.158,20.987, http://en.wikipedia.org/wiki/Ambracia
+306, Epirus (region), 39.6,20.8, http://en.wikipedia.org/wiki/Epirus_(region)
+307, Kos, 36.85,27.233333, http://en.wikipedia.org/wiki/Kos
+308, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+309, Asea, Greece, 37.416667,22.266667, http://en.wikipedia.org/wiki/Asea,_Greece
+310, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+311, Asini, 37.533333,22.883333, http://en.wikipedia.org/wiki/Asini
+312, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+313, Assiros, 40.821667,23.031667, http://en.wikipedia.org/wiki/Assiros
+314, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+315, Athens, 37.966667,23.716667, http://en.wikipedia.org/wiki/Athens
+316, Kerameikos, 37.978333,23.718611, http://en.wikipedia.org/wiki/Kerameikos
+317, Pnyx, 37.971667,23.719444, http://en.wikipedia.org/wiki/Pnyx
+318, Colonus, 37.995833,23.715278, http://en.wikipedia.org/wiki/Colonus
+319, Areopagus, 37.972222,23.723611, http://en.wikipedia.org/wiki/Areopagus
+320, Temple of Hephaestus, 37.975617,23.721392, http://en.wikipedia.org/wiki/Temple_of_Hephaestus
+321, Ancient Agora of Athens, 37.975,23.7225, http://en.wikipedia.org/wiki/Ancient_Agora_of_Athens
+322, Ancient Agora of Athens, 37.975,23.7225, http://en.wikipedia.org/wiki/Ancient_Agora_of_Athens
+323, Theatre of Dionysus, 37.97034,23.727784, http://en.wikipedia.org/wiki/Theatre_of_Dionysus
+324, Abdera, Thrace, 40.95,24.983333, http://en.wikipedia.org/wiki/Abdera,_Thrace
+325, East Macedonia and Thrace, 41.2,25, http://en.wikipedia.org/wiki/East_Macedonia_and_Thrace
+326, Avlida, 38.4,23.6, http://en.wikipedia.org/wiki/Avlida
+327, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+328, Bassae, 37.429722,21.900278, http://en.wikipedia.org/wiki/Bassae
+329, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+330, Brauron, 37.926111,23.993611, http://en.wikipedia.org/wiki/Brauron
+331, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+332, Calydon, 38.378056,21.532778, http://en.wikipedia.org/wiki/Calydon
+333, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+334, Kea (island), 37.616667,24.333333, http://en.wikipedia.org/wiki/Kea_(island)
+335, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+336, Corfu, 39.583333,19.866667, http://en.wikipedia.org/wiki/Corfu
+337, Corfu, 39.583333,19.866667, http://en.wikipedia.org/wiki/Corfu
+338, Ionian Islands (region), 38.7,20.3, http://en.wikipedia.org/wiki/Ionian_Islands_(region)
+339, Epirus (region), 39.6,20.8, http://en.wikipedia.org/wiki/Epirus_(region)
+340, Chaeronea, 38.516667,22.85, http://en.wikipedia.org/wiki/Chaeronea
+341, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+342, Chalcis, 38.466667,23.6, http://en.wikipedia.org/wiki/Chalcis
+343, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+344, Chios, 38.4,26.016667, http://en.wikipedia.org/wiki/Chios
+345, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+346, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+347, Corfu, 39.583333,19.866667, http://en.wikipedia.org/wiki/Corfu
+348, Ionian Islands (region), 38.7,20.3, http://en.wikipedia.org/wiki/Ionian_Islands_(region)
+349, Corinth, 37.933333,22.933333, http://en.wikipedia.org/wiki/Corinth
+350, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+351, Salamis Island, 37.933333,23.5, http://en.wikipedia.org/wiki/Salamis_Island
+352, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+353, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+354, Delphi, 38.483333,22.5, http://en.wikipedia.org/wiki/Delphi
+355, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+356, Delos, 37.393333,25.271111, http://en.wikipedia.org/wiki/Delos
+357, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+358, Dimini, 39.35,22.883333, http://en.wikipedia.org/wiki/Dimini
+359, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+360, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+361, Dispilio, 40.480556,21.2875, http://en.wikipedia.org/wiki/Dispilio
+362, West Macedonia, 40.4,21.5, http://en.wikipedia.org/wiki/West_Macedonia
+363, Dodona, 39.546389,20.787778, http://en.wikipedia.org/wiki/Dodona
+364, Epirus (region), 39.6,20.8, http://en.wikipedia.org/wiki/Epirus_(region)
+365, Dorio, 37.283333,21.9, http://en.wikipedia.org/wiki/Dorio
+366, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+367, Dreros, 35.256667,25.628333, http://en.wikipedia.org/wiki/Dreros
+368, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+369, Dystos, 38.383333,24.116667, http://en.wikipedia.org/wiki/Dystos
+370, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+371, Salamis Island, 37.933333,23.5, http://en.wikipedia.org/wiki/Salamis_Island
+372, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+373, West Macedonia, 40.4,21.5, http://en.wikipedia.org/wiki/West_Macedonia
+374, Edessa, Greece, 40.8,22.05, http://en.wikipedia.org/wiki/Edessa,_Greece
+375, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+376, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+377, Eleusis, 38.033333,23.533333, http://en.wikipedia.org/wiki/Eleusis
+378, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+379, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+380, Elyros, 35.2925,23.795833, http://en.wikipedia.org/wiki/Elyros
+381, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+382, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+383, Eresos, 39.168611,25.931389, http://en.wikipedia.org/wiki/Eresos
+384, Lesbos, 39.166667,26.333333, http://en.wikipedia.org/wiki/Lesbos
+385, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+386, Eretria, 38.4,23.8, http://en.wikipedia.org/wiki/Eretria
+387, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+388, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+389, Epirus (region), 39.6,20.8, http://en.wikipedia.org/wiki/Epirus_(region)
+390, Epidaurus, 37.633333,23.133333, http://en.wikipedia.org/wiki/Epidaurus
+391, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+392, Samos, 37.75,26.833333, http://en.wikipedia.org/wiki/Samos
+393, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+394, Evropos, 40.9,22.55, http://en.wikipedia.org/wiki/Evropos
+395, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+396, Figaleia, 37.4,21.85, http://en.wikipedia.org/wiki/Figaleia
+397, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+398, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+399, Gioura, 39.39,24.17, http://en.wikipedia.org/wiki/Gioura
+400, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+401, Gomfoi, 39.45,21.683333, http://en.wikipedia.org/wiki/Gomfoi
+402, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+403, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+404, Gortyn, 35,24.966667, http://en.wikipedia.org/wiki/Gortyn
+405, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+406, Gournia, 35.109167,25.7925, http://en.wikipedia.org/wiki/Gournia
+407, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+408, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+409, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+410, Lemnos, 39.916667,25.25, http://en.wikipedia.org/wiki/Lemnos
+411, Lemnos, 39.916667,25.25, http://en.wikipedia.org/wiki/Lemnos
+412, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+413, Hagia Triada, 35.058889,24.7925, http://en.wikipedia.org/wiki/Hagia_Triada
+414, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+415, Heraion of Argos, 37.691944,22.774722, http://en.wikipedia.org/wiki/Heraion_of_Argos
+416, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+417, Heraion of Samos, 37.671944,26.885556, http://en.wikipedia.org/wiki/Heraion_of_Samos
+418, Samos, 37.75,26.833333, http://en.wikipedia.org/wiki/Samos
+419, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+420, Ialysos, 36.416667,28.15, http://en.wikipedia.org/wiki/Ialysos
+421, Rhodes, 36.166667,28, http://en.wikipedia.org/wiki/Rhodes
+422, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+423, Ierapetra, 35,25.733333, http://en.wikipedia.org/wiki/Ierapetra
+424, Vasiliki, Lasithi, 35.081944,25.811111, http://en.wikipedia.org/wiki/Vasiliki,_Lasithi
+425, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+426, Temple of Isthmia, 37.915833,22.993056, http://en.wikipedia.org/wiki/Temple_of_Isthmia
+427, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+428, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+429, Itanos, 35.2,26.25, http://en.wikipedia.org/wiki/Itanos
+430, Palekastro, 35.2,26.25, http://en.wikipedia.org/wiki/Palekastro
+431, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+432, Ithaca, 38.366667,20.716667, http://en.wikipedia.org/wiki/Ithaca
+433, Ionian Islands (region), 38.7,20.3, http://en.wikipedia.org/wiki/Ionian_Islands_(region)
+434, Ithomi, Messenia, 37.15,21.966667, http://en.wikipedia.org/wiki/Ithomi,_Messenia
+435, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+436, Kalymnos, 36.983333,26.983333, http://en.wikipedia.org/wiki/Kalymnos
+437, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+438, Kameiros, 36.335833,27.921389, http://en.wikipedia.org/wiki/Kameiros
+439, Rhodes, 36.166667,28, http://en.wikipedia.org/wiki/Rhodes
+440, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+441, Kassandra, Chalkidiki, 40.05,23.416667, http://en.wikipedia.org/wiki/Kassandra,_Chalkidiki
+442, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+443, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+444, Lemnos, 39.916667,25.25, http://en.wikipedia.org/wiki/Lemnos
+445, Lemnos, 39.916667,25.25, http://en.wikipedia.org/wiki/Lemnos
+446, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+447, Kechries, 37.885,22.9875, http://en.wikipedia.org/wiki/Kechries
+448, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+449, Tinos, 37.533333,25.166667, http://en.wikipedia.org/wiki/Tinos
+450, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+451, Kleitor, 37.75,22.083333, http://en.wikipedia.org/wiki/Kleitor
+452, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+453, Knossos, 35.297961,25.163156, http://en.wikipedia.org/wiki/Knossos
+454, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+455, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+456, Kos, 36.85,27.233333, http://en.wikipedia.org/wiki/Kos
+457, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+458, Kydonia, 35.5173,24.0196, http://en.wikipedia.org/wiki/Kydonia
+459, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+460, Kyparissia, 37.233333,21.666667, http://en.wikipedia.org/wiki/Kyparissia
+461, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+462, Lakereia, 39.683333,22.633333, http://en.wikipedia.org/wiki/Lakereia
+463, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+464, Larissa, 39.641667,22.416667, http://en.wikipedia.org/wiki/Larissa
+465, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+466, Lato, 35.177778,25.653611, http://en.wikipedia.org/wiki/Lato
+467, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+468, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+469, Lefkandi, 38.4125,23.675278, http://en.wikipedia.org/wiki/Lefkandi
+470, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+471, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+472, Lentas, 34.933333,24.916667, http://en.wikipedia.org/wiki/Lentas
+473, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+474, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+475, Lerna, 37.55,22.716667, http://en.wikipedia.org/wiki/Lerna
+476, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+477, Lindos, 36.083333,28.083333, http://en.wikipedia.org/wiki/Lindos
+478, Rhodes, 36.166667,28, http://en.wikipedia.org/wiki/Rhodes
+479, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+480, East Macedonia and Thrace, 41.2,25, http://en.wikipedia.org/wiki/East_Macedonia_and_Thrace
+481, Lissos, 35.241111,23.786667, http://en.wikipedia.org/wiki/Lissos
+482, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+483, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+484, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+485, Lyctus, 35.207,25.367, http://en.wikipedia.org/wiki/Lyctus
+486, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+487, Lycosura, 37.389722,22.031111, http://en.wikipedia.org/wiki/Lycosura
+488, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+489, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+490, Magasa, Crete, 35.151775,26.184883, http://en.wikipedia.org/wiki/Magasa,_Crete
+491, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+492, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+493, Mantineia, 37.616667,22.383333, http://en.wikipedia.org/wiki/Mantineia
+494, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+495, Maroneia, 40.9,25.516667, http://en.wikipedia.org/wiki/Maroneia
+496, East Macedonia and Thrace, 41.2,25, http://en.wikipedia.org/wiki/East_Macedonia_and_Thrace
+497, Matala, Crete, 35,24.75, http://en.wikipedia.org/wiki/Matala,_Crete
+498, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+499, Megalopolis, Greece, 37.4,22.133333, http://en.wikipedia.org/wiki/Megalopolis,_Greece
+500, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+501, Megara, 38,23.333333, http://en.wikipedia.org/wiki/Megara
+502, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+503, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+504, East Macedonia and Thrace, 41.2,25, http://en.wikipedia.org/wiki/East_Macedonia_and_Thrace
+505, Midea, Greece, 37.65,22.816667, http://en.wikipedia.org/wiki/Midea,_Greece
+506, Dendra, 37.655833,22.828611, http://en.wikipedia.org/wiki/Dendra
+507, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+508, Milos, 36.683333,24.416667, http://en.wikipedia.org/wiki/Milos
+509, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+510, Ionian Islands (region), 38.7,20.3, http://en.wikipedia.org/wiki/Ionian_Islands_(region)
+511, Amorgos, 36.833333,25.9, http://en.wikipedia.org/wiki/Amorgos
+512, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+513, Mochlos, 35.1875,25.9055, http://en.wikipedia.org/wiki/Mochlos
+514, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+515, Monemvasia, 36.683333,23.05, http://en.wikipedia.org/wiki/Monemvasia
+516, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+517, Mount Athos, 40.157222,24.326389, http://en.wikipedia.org/wiki/Mount_Athos
+518, Mount Juktas, 35.2325,25.1409, http://en.wikipedia.org/wiki/Mount_Juktas
+519, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+520, Mycenae, 37.730833,22.756111, http://en.wikipedia.org/wiki/Mycenae
+521, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+522, Myrina, Greece, 39.883333,25.066667, http://en.wikipedia.org/wiki/Myrina,_Greece
+523, Lesbos, 39.166667,26.333333, http://en.wikipedia.org/wiki/Lesbos
+524, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+525, Myrtos Pyrgos, 35.006944,25.590556, http://en.wikipedia.org/wiki/Myrtos_Pyrgos
+526, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+527, Mystras, 37.066667,22.383333, http://en.wikipedia.org/wiki/Mystras
+528, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+529, Mytilene, 39.1,26.55, http://en.wikipedia.org/wiki/Mytilene
+530, Lesbos, 39.166667,26.333333, http://en.wikipedia.org/wiki/Lesbos
+531, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+532, Naousa, Imathia, 40.633333,22.066667, http://en.wikipedia.org/wiki/Naousa,_Imathia
+533, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+534, Lesbos, 39.166667,26.333333, http://en.wikipedia.org/wiki/Lesbos
+535, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+536, Naupactus, 38.383333,21.816667, http://en.wikipedia.org/wiki/Naupactus
+537, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+538, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+539, Acheron, 39.236111,20.476111, http://en.wikipedia.org/wiki/Acheron
+540, Epirus (region), 39.6,20.8, http://en.wikipedia.org/wiki/Epirus_(region)
+541, Nemea, 37.808889,22.710278, http://en.wikipedia.org/wiki/Nemea
+542, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+543, Nicopolis, 39.008333,20.733611, http://en.wikipedia.org/wiki/Nicopolis
+544, Epirus (region), 39.6,20.8, http://en.wikipedia.org/wiki/Epirus_(region)
+545, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+546, Oiniades, 38.4,21.266667, http://en.wikipedia.org/wiki/Oiniades
+547, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+548, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+549, Olympia, Greece, 37.638,21.63, http://en.wikipedia.org/wiki/Olympia,_Greece
+550, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+551, Olynthus, 40.296,23.354, http://en.wikipedia.org/wiki/Olynthus
+552, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+553, Orchomenus (Boeotia), 38.483333,22.983333, http://en.wikipedia.org/wiki/Orchomenus_(Boeotia)
+554, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+555, Orchomenus (Arcadia), 37.724722,22.315278, http://en.wikipedia.org/wiki/Orchomenus_(Arcadia)
+556, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+557, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+558, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+559, Andros, 37.833333,24.933333, http://en.wikipedia.org/wiki/Andros
+560, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+561, Kythira, 36.25,23, http://en.wikipedia.org/wiki/Kythira
+562, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+563, Mykonos, 37.45,25.35, http://en.wikipedia.org/wiki/Mykonos
+564, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+565, Paros, 37.083333,25.15, http://en.wikipedia.org/wiki/Paros
+566, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+567, Partira, 35.116667,25.216667, http://en.wikipedia.org/wiki/Partira
+568, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+569, Patras, 38.25,21.733333, http://en.wikipedia.org/wiki/Patras
+570, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+571, Pella, 40.8,22.516667, http://en.wikipedia.org/wiki/Pella
+572, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+573, Perachora, 38.033333,22.95, http://en.wikipedia.org/wiki/Perachora
+574, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+575, Elassona, 39.883333,22.183333, http://en.wikipedia.org/wiki/Elassona
+576, Livadi, 40.126667,22.158333, http://en.wikipedia.org/wiki/Livadi
+577, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+578, West Macedonia, 40.4,21.5, http://en.wikipedia.org/wiki/West_Macedonia
+579, Phalasarna, 35.5,23.566667, http://en.wikipedia.org/wiki/Phalasarna
+580, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+581, East Macedonia and Thrace, 41.2,25, http://en.wikipedia.org/wiki/East_Macedonia_and_Thrace
+582, Icaria, 37.583333,26.166667, http://en.wikipedia.org/wiki/Icaria
+583, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+584, Phaistos, 35.051389,24.813611, http://en.wikipedia.org/wiki/Phaistos
+585, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+586, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+587, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+588, Philippi, 41.013056,24.286389, http://en.wikipedia.org/wiki/Philippi
+589, East Macedonia and Thrace, 41.2,25, http://en.wikipedia.org/wiki/East_Macedonia_and_Thrace
+590, Phourni, 35.246111,25.158611, http://en.wikipedia.org/wiki/Phourni
+591, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+592, Piraeus, 37.95,23.633333, http://en.wikipedia.org/wiki/Piraeus
+593, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+594, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+595, Kassandra, Chalkidiki, 40.05,23.416667, http://en.wikipedia.org/wiki/Kassandra,_Chalkidiki
+596, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+597, Lemnos, 39.916667,25.25, http://en.wikipedia.org/wiki/Lemnos
+598, Lemnos, 39.916667,25.25, http://en.wikipedia.org/wiki/Lemnos
+599, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+600, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+601, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+602, Lefkada (city), 38.833333,20.7, http://en.wikipedia.org/wiki/Lefkada_(city)
+603, Lefkada, 38.716667,20.65, http://en.wikipedia.org/wiki/Lefkada
+604, Ionian Islands (region), 38.7,20.3, http://en.wikipedia.org/wiki/Ionian_Islands_(region)
+605, Amfilochia, 38.85,21.166667, http://en.wikipedia.org/wiki/Amfilochia
+606, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+607, Plataies, 38.233333,23.216667, http://en.wikipedia.org/wiki/Plataies
+608, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+609, Poseidonia, 37.383333,24.883333, http://en.wikipedia.org/wiki/Poseidonia
+610, Syros, 37.45,24.9, http://en.wikipedia.org/wiki/Syros
+611, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+612, Potidaea, 40.2,23.333333, http://en.wikipedia.org/wiki/Potidaea
+613, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+614, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+615, Pydna, 40.366667,22.583333, http://en.wikipedia.org/wiki/Pydna
+616, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+617, Pylos, 36.916667,21.7, http://en.wikipedia.org/wiki/Pylos
+618, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+619, Nea Anchialos, 39.266667,22.816667, http://en.wikipedia.org/wiki/Nea_Anchialos
+620, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+621, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+622, Pythagoreion, 37.701208,26.868783, http://en.wikipedia.org/wiki/Pythagoreion
+623, Samos, 37.75,26.833333, http://en.wikipedia.org/wiki/Samos
+624, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+625, Louros, 39.166667,20.75, http://en.wikipedia.org/wiki/Louros
+626, Epirus (region), 39.6,20.8, http://en.wikipedia.org/wiki/Epirus_(region)
+627, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+628, Rhodes, 36.166667,28, http://en.wikipedia.org/wiki/Rhodes
+629, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+630, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+631, Samothrace temple complex, 40.5008,25.5301, http://en.wikipedia.org/wiki/Samothrace_temple_complex
+632, East Macedonia and Thrace, 41.2,25, http://en.wikipedia.org/wiki/East_Macedonia_and_Thrace
+633, Serres, 41.083333,23.55, http://en.wikipedia.org/wiki/Serres
+634, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+635, Servia, Greece, 40.183333,22, http://en.wikipedia.org/wiki/Servia,_Greece
+636, West Macedonia, 40.4,21.5, http://en.wikipedia.org/wiki/West_Macedonia
+637, Sesklo, 39.355,22.835, http://en.wikipedia.org/wiki/Sesklo
+638, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+639, Sicyon, 37.984104,22.711145, http://en.wikipedia.org/wiki/Sicyon
+640, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+641, Sikinos, 36.683333,25.116667, http://en.wikipedia.org/wiki/Sikinos
+642, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+643, Sitagroi, 41.116667,24.033333, http://en.wikipedia.org/wiki/Sitagroi
+644, East Macedonia and Thrace, 41.2,25, http://en.wikipedia.org/wiki/East_Macedonia_and_Thrace
+645, Skillounta, 37.616667,21.633333, http://en.wikipedia.org/wiki/Skillounta
+646, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+647, Sounion, 37.650572,24.024586, http://en.wikipedia.org/wiki/Sounion
+648, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+649, Sparta, 37.081944,22.423611, http://en.wikipedia.org/wiki/Sparta
+650, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+651, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+652, Stratos, Greece, 38.666667,21.316667, http://en.wikipedia.org/wiki/Stratos,_Greece
+653, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+654, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+655, Syia, 35.248524,23.810973, http://en.wikipedia.org/wiki/Syia
+656, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+657, Tanagra, 38.316667,23.533333, http://en.wikipedia.org/wiki/Tanagra
+658, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+659, Tarra, Crete, 35.238661,23.964744, http://en.wikipedia.org/wiki/Tarra,_Crete
+660, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+661, Tegea, 37.455,22.42, http://en.wikipedia.org/wiki/Tegea
+662, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+663, Thasos, 40.683333,24.65, http://en.wikipedia.org/wiki/Thasos
+664, East Macedonia and Thrace, 41.2,25, http://en.wikipedia.org/wiki/East_Macedonia_and_Thrace
+665, Thebes, Greece, 38.316667,23.316667, http://en.wikipedia.org/wiki/Thebes,_Greece
+666, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+667, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+668, Thermopylae, 38.805278,22.562778, http://en.wikipedia.org/wiki/Thermopylae
+669, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+670, Thermos (Aetolia), 38.559444,21.668056, http://en.wikipedia.org/wiki/Thermos_(Aetolia)
+671, West Greece, 38.2,21.4, http://en.wikipedia.org/wiki/West_Greece
+672, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+673, Thessaloniki, 40.65,22.9, http://en.wikipedia.org/wiki/Thessaloniki
+674, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+675, South Aegean, 36.8,26.2, http://en.wikipedia.org/wiki/South_Aegean
+676, Thisvi, 38.266667,22.966667, http://en.wikipedia.org/wiki/Thisvi
+677, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+678, Tiryns, 37.599444,22.799722, http://en.wikipedia.org/wiki/Tiryns
+679, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+680, East Macedonia and Thrace, 41.2,25, http://en.wikipedia.org/wiki/East_Macedonia_and_Thrace
+681, Toroni, 39.983333,23.9, http://en.wikipedia.org/wiki/Toroni
+682, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+683, Trikala, 39.55,21.766667, http://en.wikipedia.org/wiki/Trikala
+684, Thessaly, 39.6,22.2, http://en.wikipedia.org/wiki/Thessaly
+685, Troezen, 37.483333,23.35, http://en.wikipedia.org/wiki/Troezen
+686, Attica (region), 38,23.7, http://en.wikipedia.org/wiki/Attica_(region)
+687, Livadeia, 38.433333,22.866667, http://en.wikipedia.org/wiki/Livadeia
+688, Central Greece (region), 38.7,22.7, http://en.wikipedia.org/wiki/Central_Greece_(region)
+689, Tylissos, 35.316667,24.966667, http://en.wikipedia.org/wiki/Tylissos
+690, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+691, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+692, Peloponnese (region), 37.4,22.3, http://en.wikipedia.org/wiki/Peloponnese_(region)
+693, Vergina, 40.483333,22.316667, http://en.wikipedia.org/wiki/Vergina
+694, Central Macedonia, 40.7,23, http://en.wikipedia.org/wiki/Central_Macedonia
+695, East Macedonia and Thrace, 41.2,25, http://en.wikipedia.org/wiki/East_Macedonia_and_Thrace
+696, Vrisa, 39.033333,26.2, http://en.wikipedia.org/wiki/Vrisa
+697, Lesbos, 39.166667,26.333333, http://en.wikipedia.org/wiki/Lesbos
+698, North Aegean, 38.7,26, http://en.wikipedia.org/wiki/North_Aegean
+699, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+700, Zakros, 35.098056,26.261389, http://en.wikipedia.org/wiki/Zakros
+701, Crete, 35.21,24.91, http://en.wikipedia.org/wiki/Crete
+702, Aguateca, 16.412044,-90.188483, http://en.wikipedia.org/wiki/Aguateca
+703, La Amelia, 16.526389,-90.422778, http://en.wikipedia.org/wiki/La_Amelia
+704, El Ba%C3%BAl, 14.3803,-91.0108, http://en.wikipedia.org/wiki/El_Ba%C3%BAl
+705, La Blanca, Peten, 16.903611,-89.442222, http://en.wikipedia.org/wiki/La_Blanca,_Peten
+706, El Chal, 16.633333,-89.65, http://en.wikipedia.org/wiki/El_Chal
+707, Dos Pilas, 16.445833,-90.295833, http://en.wikipedia.org/wiki/Dos_Pilas
+708, Ixkun, 16.573611,-89.411111, http://en.wikipedia.org/wiki/Ixkun
+709, Ixlu, 16.971944,-89.685833, http://en.wikipedia.org/wiki/Ixlu
+710, Ixtonton, 16.504369,-89.390247, http://en.wikipedia.org/wiki/Ixtonton
+711, Kaminaljuyu, 14.6328,-90.5491, http://en.wikipedia.org/wiki/Kaminaljuyu
+712, Machaquila, 16.32,-89.86, http://en.wikipedia.org/wiki/Machaquila
+713, El Mirador, 17.75505,-89.920431, http://en.wikipedia.org/wiki/El_Mirador
+714, Mixco Viejo, 14.871667,-90.664167, http://en.wikipedia.org/wiki/Mixco_Viejo
+715, Motul de San Jos%C3%A9, 17.026389,-89.901389, http://en.wikipedia.org/wiki/Motul_de_San_Jos%C3%A9
+716, Nakbe, 17.6828,-89.8331, http://en.wikipedia.org/wiki/Nakbe
+717, Naranjo, 17.133598,-89.26217, http://en.wikipedia.org/wiki/Naranjo
+718, Quirigu%C3%A1, 15.269444,-89.040278, http://en.wikipedia.org/wiki/Quirigu%C3%A1
+719, Q%27umarkaj, 15.023528,-91.171989, http://en.wikipedia.org/wiki/Q%27umarkaj
+720, R%C3%ADo Azul, 17.616667,-89.483333, http://en.wikipedia.org/wiki/R%C3%ADo_Azul
+721, San Mateo Ixtat%C3%A1n, 15.833333,-91.483333, http://en.wikipedia.org/wiki/San_Mateo_Ixtat%C3%A1n
+722, Seibal, 16.511667,-90.061111, http://en.wikipedia.org/wiki/Seibal
+723, Takalik Abaj, 14.645833,-91.736111, http://en.wikipedia.org/wiki/Takalik_Abaj
+724, Tamarindito, 16.45,-90.23, http://en.wikipedia.org/wiki/Tamarindito
+725, Tikal, 17.222094,-89.623614, http://en.wikipedia.org/wiki/Tikal
+726, Ujuxte, 14.5385,-92.0353, http://en.wikipedia.org/wiki/Ujuxte
+727, Yaxha, 17.0775,-89.4025, http://en.wikipedia.org/wiki/Yaxha
+728, Zacpeten, 16.983333,-89.65, http://en.wikipedia.org/wiki/Zacpeten
+729, Zaculeu, 15.333794,-91.492744, http://en.wikipedia.org/wiki/Zaculeu
+730, El Zotz, 17.283333,-89.8, http://en.wikipedia.org/wiki/El_Zotz
+731, Cop%C3%A1n, 14.84,-89.14, http://en.wikipedia.org/wiki/Cop%C3%A1n
+732, Aquincum, 47.564167,19.049444, http://en.wikipedia.org/wiki/Aquincum
+733, Ajanta Caves, 20.552377,75.700436, http://en.wikipedia.org/wiki/Ajanta_Caves
+734, Aihole, 16.018889,75.881944, http://en.wikipedia.org/wiki/Aihole
+735, Arikamedu, 11.895236,79.816467, http://en.wikipedia.org/wiki/Arikamedu
+736, Badami, 15.92,75.680278, http://en.wikipedia.org/wiki/Badami
+737, Barabar Caves, 25.005,85.063, http://en.wikipedia.org/wiki/Barabar_Caves
+738, Dholavira, 23.886111,70.216667, http://en.wikipedia.org/wiki/Dholavira
+739, Edakkal Caves, 11.624669,76.2358, http://en.wikipedia.org/wiki/Edakkal_Caves
+740, Ellora Caves, 20.026389,75.179167, http://en.wikipedia.org/wiki/Ellora_Caves
+741, Jaugada, 19.522556,84.81225, http://en.wikipedia.org/wiki/Jaugada
+742, Jwalapuram, 15.81,78.03, http://en.wikipedia.org/wiki/Jwalapuram
+743, Konark Sun Temple, 19.887444,86.094596, http://en.wikipedia.org/wiki/Konark_Sun_Temple
+744, Kulpahar, 25.319,79.641, http://en.wikipedia.org/wiki/Kulpahar
+745, Lothal, 22.521389,72.249444, http://en.wikipedia.org/wiki/Lothal
+746, Nalanda, 25.136667,85.443889, http://en.wikipedia.org/wiki/Nalanda
+747, Pattanam, 10.15654,76.208982, http://en.wikipedia.org/wiki/Pattanam
+748, Rewari, 28.18,76.62, http://en.wikipedia.org/wiki/Rewari
+749, Sisupalgarh, 20.226639,85.853056, http://en.wikipedia.org/wiki/Sisupalgarh
+750, Borobudur, -7.608,110.204, http://en.wikipedia.org/wiki/Borobudur
+751, Sangiran, -7.45,110.85, http://en.wikipedia.org/wiki/Sangiran
+752, Trowulan, -7.55,112.366667, http://en.wikipedia.org/wiki/Trowulan
+753, Alamut, 36.444722,50.586389, http://en.wikipedia.org/wiki/Alamut
+754, Apadana, 29.935,52.89, http://en.wikipedia.org/wiki/Apadana
+755, Arg %C3%A9 Bam, 29.116856,58.368475, http://en.wikipedia.org/wiki/Arg-%C3%A9_Bam
+756, Bishapur, 29.777778,51.570833, http://en.wikipedia.org/wiki/Bishapur
+757, Blue Mosque, Tabriz, 38.073586,46.301078, http://en.wikipedia.org/wiki/Blue_Mosque,_Tabriz
+758, Damghan, 36.168333,54.348056, http://en.wikipedia.org/wiki/Damghan
+759, Darband Cave, 36.835556,49.658889, http://en.wikipedia.org/wiki/Darband_Cave
+760, Ecbatana, 34.806389,48.516111, http://en.wikipedia.org/wiki/Ecbatana
+761, Ganj Dareh, 34.45,48.116667, http://en.wikipedia.org/wiki/Ganj_Dareh
+762, Golestan Palace, 35.679722,51.420278, http://en.wikipedia.org/wiki/Golestan_Palace
+763, Gorgan, 36.838611,54.434722, http://en.wikipedia.org/wiki/Gorgan
+764, Izadkhvast, 31.516111,52.123889, http://en.wikipedia.org/wiki/Izadkhvast
+765, Teppe Hasanlu, 37.004831,45.458892, http://en.wikipedia.org/wiki/Teppe_Hasanlu
+766, Masuleh, 37.155,48.989722, http://en.wikipedia.org/wiki/Masuleh
+767, Meybod, 32.25,54.016667, http://en.wikipedia.org/wiki/Meybod
+768, Naqsh e Rajab, 29.966486,52.887043, http://en.wikipedia.org/wiki/Naqsh-e_Rajab
+769, Naqsh e Rustam, 29.988889,52.874722, http://en.wikipedia.org/wiki/Naqsh-e_Rustam
+770, Pasargadae, 30.2,53.179444, http://en.wikipedia.org/wiki/Pasargadae
+771, Persepolis, 29.934444,52.891389, http://en.wikipedia.org/wiki/Persepolis
+772, Shahr e Sukhteh, 30.595278,61.326389, http://en.wikipedia.org/wiki/Shahr-e_Sukhteh
+773, Soltaniyeh, 36.434722,48.7975, http://en.wikipedia.org/wiki/Soltaniyeh
+774, Susa, 32.190556,48.257778, http://en.wikipedia.org/wiki/Susa
+775, Takht e Soleym%C4%81n, 36.603171,47.235949, http://en.wikipedia.org/wiki/Takht-e_Soleym%C4%81n
+776, Al Mada%27in, 33.1,44.583333, http://en.wikipedia.org/wiki/Al-Mada%27in
+777, Taq i Kisra, 33.085278,44.580722, http://en.wikipedia.org/wiki/Taq-i_Kisra
+778, Al Qurnah, 31.015833,47.430556, http://en.wikipedia.org/wiki/Al-Qurnah
+779, Babylon, 32.536389,44.420833, http://en.wikipedia.org/wiki/Babylon
+780, Baghdad, 33.325,44.422, http://en.wikipedia.org/wiki/Baghdad
+781, Hatra, 35.588056,42.718333, http://en.wikipedia.org/wiki/Hatra
+782, Isin, 31.885,45.268611, http://en.wikipedia.org/wiki/Isin
+783, Jarmo, 35.548889,44.950278, http://en.wikipedia.org/wiki/Jarmo
+784, Nimrud, 36.098192,43.328769, http://en.wikipedia.org/wiki/Nimrud
+785, Nineveh, 36.359444,43.152778, http://en.wikipedia.org/wiki/Nineveh
+786, Samarra, 34.198333,43.874167, http://en.wikipedia.org/wiki/Samarra
+787, Ur, 30.9625,46.103056, http://en.wikipedia.org/wiki/Ur
+788, Grianan of Aileach, 55.016667,-7.433333, http://en.wikipedia.org/wiki/Grianan_of_Aileach
+789, Hill of Tara, 53.5775,-6.611944, http://en.wikipedia.org/wiki/Hill_of_Tara
+790, Innisfallen Island, 52.045833,-9.553611, http://en.wikipedia.org/wiki/Innisfallen_Island
+791, Monasterboice, 53.777647,-6.417342, http://en.wikipedia.org/wiki/Monasterboice
+792, Newgrange, 53.694369,-6.475031, http://en.wikipedia.org/wiki/Newgrange
+793, Antipatris, 32.105,34.930417, http://en.wikipedia.org/wiki/Antipatris
+794, Arsuf, 32.1952,34.8068, http://en.wikipedia.org/wiki/Arsuf
+795, Ashkelon, 31.666667,34.566667, http://en.wikipedia.org/wiki/Ashkelon
+796, Avdat, 30.794,34.773, http://en.wikipedia.org/wiki/Avdat
+797, Arbel, 32.812222,35.4825, http://en.wikipedia.org/wiki/Arbel
+798, Bar%27am National Park, 33.043889,35.414178, http://en.wikipedia.org/wiki/Bar%27am_National_Park
+799, Beit Guvrin National Park, 31.596961,34.900647, http://en.wikipedia.org/wiki/Beit_Guvrin_National_Park
+800, Bethsaida, 32.91,35.631, http://en.wikipedia.org/wiki/Bethsaida
+801, Belvoir Fortress, 32.595556,35.521389, http://en.wikipedia.org/wiki/Belvoir_Fortress
+802, Caesarea Maritima, 32.498611,34.891389, http://en.wikipedia.org/wiki/Caesarea_Maritima
+803, Capernaum, 32.881111,35.575, http://en.wikipedia.org/wiki/Capernaum
+804, Chorazin, 32.911389,35.563889, http://en.wikipedia.org/wiki/Chorazin
+805, Ein Hemed, 31.79615,35.125973, http://en.wikipedia.org/wiki/Ein_Hemed
+806, Ein Gedi, 31.45,35.383333, http://en.wikipedia.org/wiki/Ein_Gedi
+807, Gamla, 32.902778,35.740556, http://en.wikipedia.org/wiki/Gamla
+808, Gezer, 31.859,34.919, http://en.wikipedia.org/wiki/Gezer
+809, Hamat Tiberias, 32.768475,35.548453, http://en.wikipedia.org/wiki/Hamat_Tiberias
+810, Haluza, 31.097,34.652, http://en.wikipedia.org/wiki/Haluza
+811, Hebron, 31.533333,35.095, http://en.wikipedia.org/wiki/Hebron
+812, Herodium, 31.665833,35.241389, http://en.wikipedia.org/wiki/Herodium
+813, Hisham%27s Palace, 31.8825,35.459722, http://en.wikipedia.org/wiki/Hisham%27s_Palace
+814, Jerusalem, 31.783333,35.216667, http://en.wikipedia.org/wiki/Jerusalem
+815, City of David, 31.773611,35.235556, http://en.wikipedia.org/wiki/City_of_David
+816, Pool of Bethesda, 31.781389,35.235833, http://en.wikipedia.org/wiki/Pool_of_Bethesda
+817, Southern Wall, 31.775761,35.236106, http://en.wikipedia.org/wiki/Southern_Wall
+818, Khirbat al Minya, 32.880047,35.568347, http://en.wikipedia.org/wiki/Khirbat_al-Minya
+819, Khirbet Qeiyafa, 31.696389,34.957222, http://en.wikipedia.org/wiki/Khirbet_Qeiyafa
+820, Kursi, Golan Heights, 32.826086,35.650378, http://en.wikipedia.org/wiki/Kursi,_Golan_Heights
+821, Laura of Euthymius, 31.816778,35.35875, http://en.wikipedia.org/wiki/Laura_of_Euthymius
+822, Magdala, 32.825,35.515556, http://en.wikipedia.org/wiki/Magdala
+823, Mamshit, 31.025,35.064, http://en.wikipedia.org/wiki/Mamshit
+824, Masada, 31.315556,35.353889, http://en.wikipedia.org/wiki/Masada
+825, Mount Gerizim, 32.199444,35.272778, http://en.wikipedia.org/wiki/Mount_Gerizim
+826, Monastery of Martyrius, 31.779181,35.300317, http://en.wikipedia.org/wiki/Monastery_of_Martyrius
+827, Nahal Me%27arot Nature Reserve, 32.67,34.965278, http://en.wikipedia.org/wiki/Nahal_Me%27arot_Nature_Reserve
+828, Qesem Cave, 32.11,34.98, http://en.wikipedia.org/wiki/Qesem_Cave
+829, Qumran, 31.740833,35.458611, http://en.wikipedia.org/wiki/Qumran
+830, Safed, 32.965833,35.498333, http://en.wikipedia.org/wiki/Safed
+831, Sebastia, Nablus, 32.276111,35.195278, http://en.wikipedia.org/wiki/Sebastia,_Nablus
+832, Shivta, 30.88,34.63, http://en.wikipedia.org/wiki/Shivta
+833, Solomon%27s Pools, 31.688992,35.169819, http://en.wikipedia.org/wiki/Solomon%27s_Pools
+834, Tell Abu Hawam, 32.800833,35.019167, http://en.wikipedia.org/wiki/Tell_Abu_Hawam
+835, Tel Be%27er Sheva, 31.244722,34.840833, http://en.wikipedia.org/wiki/Tel_Be%27er_Sheva
+836, Tell el Hesi, 31.547676,34.730183, http://en.wikipedia.org/wiki/Tell_el-Hesi
+837, Tel Hazor, 33.016667,35.566944, http://en.wikipedia.org/wiki/Tel_Hazor
+838, Tel Megiddo, 32.584622,35.183494, http://en.wikipedia.org/wiki/Tel_Megiddo
+839, Tel Shikmona, 32.824937,34.955257, http://en.wikipedia.org/wiki/Tel_Shikmona
+840, Temple Mount, 31.777972,35.235806, http://en.wikipedia.org/wiki/Temple_Mount
+841, Ubeidiya, 32.688889,35.561111, http://en.wikipedia.org/wiki/Ubeidiya
+842, Yodfat, 32.836944,35.273611, http://en.wikipedia.org/wiki/Yodfat
+843, Asti, 44.9,8.2, http://en.wikipedia.org/wiki/Asti
+844, Brescia, 45.541667,10.216667, http://en.wikipedia.org/wiki/Brescia
+845, Catania, 37.5,15.090278, http://en.wikipedia.org/wiki/Catania
+846, Caulonia, 38.383333,16.416667, http://en.wikipedia.org/wiki/Caulonia
+847, Erice, 38.036944,12.586389, http://en.wikipedia.org/wiki/Erice
+848, Giardini Naxos, 37.833333,15.283333, http://en.wikipedia.org/wiki/Giardini_Naxos
+849, Herculaneum, 40.806,14.3482, http://en.wikipedia.org/wiki/Herculaneum
+850, Lazio, 41.9,12.716667, http://en.wikipedia.org/wiki/Lazio
+851, Morgantina, 37.430833,14.479444, http://en.wikipedia.org/wiki/Morgantina
+852, Mozia, 37.868333,12.468611, http://en.wikipedia.org/wiki/Mozia
+853, Ostia Antica, 41.755833,12.291667, http://en.wikipedia.org/wiki/Ostia_Antica
+854, Paestum, 40.422222,15.005278, http://en.wikipedia.org/wiki/Paestum
+855, Pompeii, 40.75,14.486111, http://en.wikipedia.org/wiki/Pompeii
+856, Rome, 41.9,12.5, http://en.wikipedia.org/wiki/Rome
+857, Segesta, 37.941389,12.832222, http://en.wikipedia.org/wiki/Segesta
+858, Selinunte, 37.583611,12.824722, http://en.wikipedia.org/wiki/Selinunte
+859, Sibari, 39.750833,16.451389, http://en.wikipedia.org/wiki/Sibari
+860, Sicily, 37.5,14, http://en.wikipedia.org/wiki/Sicily
+861, Suasa, 43.6247,12.9867, http://en.wikipedia.org/wiki/Suasa
+862, Tauriana, 38.366667,15.85, http://en.wikipedia.org/wiki/Tauriana
+863, Turin, 45.066667,7.7, http://en.wikipedia.org/wiki/Turin
+864, Tusculum, 41.798333,12.710833, http://en.wikipedia.org/wiki/Tusculum
+865, Villa Romana del Casale, 37.364722,14.334722, http://en.wikipedia.org/wiki/Villa_Romana_del_Casale
+866, Veleia (Italy), 44.785131,9.722596, http://en.wikipedia.org/wiki/Veleia_(Italy)
+867, Iwajuku, 36.399167,139.285833, http://en.wikipedia.org/wiki/Iwajuku
+868, Sannai Maruyama site, 40.811667,140.695556, http://en.wikipedia.org/wiki/Sannai-Maruyama_site
+869, %27Ain Ghazal, 31.988,35.976, http://en.wikipedia.org/wiki/%27Ain_Ghazal
+870, Jerash, 32.272281,35.891397, http://en.wikipedia.org/wiki/Jerash
+871, Petra, 30.328611,35.441944, http://en.wikipedia.org/wiki/Petra
+872, Balasagun, 42.379739,75.250456, http://en.wikipedia.org/wiki/Balasagun
+873, Burana, Kyrgyzstan, 42.73,75.33, http://en.wikipedia.org/wiki/Burana,_Kyrgyzstan
+874, Issyk Kul, 42.416667,77.25, http://en.wikipedia.org/wiki/Issyk_Kul
+875, Suyab, 42.805,75.2, http://en.wikipedia.org/wiki/Suyab
+876, Tash Rabat, 40.82315,75.288766, http://en.wikipedia.org/wiki/Tash_Rabat
+877, Uzgen, 40.766667,73.3, http://en.wikipedia.org/wiki/Uzgen
+878, Leptis Magna, 32.639167,14.290556, http://en.wikipedia.org/wiki/Leptis_Magna
+879, Cyrene, Libya, 32.825,21.858056, http://en.wikipedia.org/wiki/Cyrene,_Libya
+880, Apollonia, Cyrenaica, 32.9,21.966667, http://en.wikipedia.org/wiki/Apollonia,_Cyrenaica
+881, Sabratha, 32.792222,12.484167, http://en.wikipedia.org/wiki/Sabratha
+882, Tripoli, 32.902222,13.185833, http://en.wikipedia.org/wiki/Tripoli
+883, Germa, 26.544,13.064, http://en.wikipedia.org/wiki/Germa
+884, Derna, Libya, 32.766667,22.633333, http://en.wikipedia.org/wiki/Derna,_Libya
+885, Ghadames, 30.133333,9.5, http://en.wikipedia.org/wiki/Ghadames
+886, Benghazi, 32.116667,20.066667, http://en.wikipedia.org/wiki/Benghazi
+887, Waddan, Libya, 29.161111,16.143611, http://en.wikipedia.org/wiki/Waddan,_Libya
+888, Tolmeitha, 32.705411,20.944748, http://en.wikipedia.org/wiki/Tolmeitha
+889, Anjar, Lebanon, 33.725833,35.929722, http://en.wikipedia.org/wiki/Anjar,_Lebanon
+890, Baalbek, 34.006944,36.203889, http://en.wikipedia.org/wiki/Baalbek
+891, Byblos, 34.123611,35.651111, http://en.wikipedia.org/wiki/Byblos
+892, Ohrid, 41.116944,20.801667, http://en.wikipedia.org/wiki/Ohrid
+893, Stobi, 41.551667,21.975, http://en.wikipedia.org/wiki/Stobi
+894, Heraclea Lyncestis, 41.010833,21.3425, http://en.wikipedia.org/wiki/Heraclea_Lyncestis
+895, Scupi, 42.0166,21.392067, http://en.wikipedia.org/wiki/Scupi
+896, Vini%C4%8Dko Kale, 41.877778,22.502222, http://en.wikipedia.org/wiki/Vini%C4%8Dko_Kale
+897, Tumba Mad%C5%BEari, 42.001389,21.505, http://en.wikipedia.org/wiki/Tumba_Mad%C5%BEari
+898, Trebeni%C5%A1ta, 41.206389,20.755, http://en.wikipedia.org/wiki/Trebeni%C5%A1ta
+899, Kokino, 42.263,21.954, http://en.wikipedia.org/wiki/Kokino
+900, Bylazora, 41.847222,21.912778, http://en.wikipedia.org/wiki/Bylazora
+901, Lenggong, 5.1,100.966667, http://en.wikipedia.org/wiki/Lenggong
+902, Bujang Valley, 5.73778,100.414, http://en.wikipedia.org/wiki/Bujang_Valley
+903, Timbuktu, 16.775833,-3.009444, http://en.wikipedia.org/wiki/Timbuktu
+904, %C4%A0gantija, 36.047222,14.269167, http://en.wikipedia.org/wiki/%C4%A0gantija
+905, %C4%A6a%C4%A1ar Qim, 35.827778,14.442222, http://en.wikipedia.org/wiki/%C4%A6a%C4%A1ar_Qim
+906, Hypogeum of %C4%A6al Saflieni, 35.87,14.506389, http://en.wikipedia.org/wiki/Hypogeum_of_%C4%A6al-Saflieni
+907, Mnajdra, 35.826667,14.436389, http://en.wikipedia.org/wiki/Mnajdra
+908, Tarxien Temples, 35.869167,14.511944, http://en.wikipedia.org/wiki/Tarxien_Temples
+909, Xag%C4%A7ra Stone Circle, 36.05,14.26, http://en.wikipedia.org/wiki/Xag%C4%A7ra_Stone_Circle
+910, Acanmul, 19.903611,-90.325556, http://en.wikipedia.org/wiki/Acanmul
+911, Acozac (archaeological site), 19.328539,-98.892597, http://en.wikipedia.org/wiki/Acozac_(archaeological_site)
+912, Ake, 20.95,-89.3, http://en.wikipedia.org/wiki/Ake
+913, Altavista petroglyph complex, 21.074444,-105.415556, http://en.wikipedia.org/wiki/Altavista_petroglyph_complex
+914, El Arbolillo, 19.538889,-99.193056, http://en.wikipedia.org/wiki/El_Arbolillo
+915, Balamku, 18.560278,-89.944444, http://en.wikipedia.org/wiki/Balamku
+916, Balc%C3%B3n de Montezuma, 23.590833,-99.178056, http://en.wikipedia.org/wiki/Balc%C3%B3n_de_Montezuma
+917, Becan, 18.516667,-89.466667, http://en.wikipedia.org/wiki/Becan
+918, Bonampak, 16.704,-91.065, http://en.wikipedia.org/wiki/Bonampak
+919, Cacaxtla, 19.24313,-98.34, http://en.wikipedia.org/wiki/Cacaxtla
+920, Calakmul, 18.105392,-89.810829, http://en.wikipedia.org/wiki/Calakmul
+921, Calixtlahuaca, 19.333333,-99.683333, http://en.wikipedia.org/wiki/Calixtlahuaca
+922, La Campana (archaeological site), 19.267778,-103.725833, http://en.wikipedia.org/wiki/La_Campana_(archaeological_site)
+923, Candelaria Cave, 25.421111,-100.961111, http://en.wikipedia.org/wiki/Candelaria_Cave
+924, Cantona (Mesoamerican site), 19.566667,-97.5, http://en.wikipedia.org/wiki/Cantona_(Mesoamerican_site)
+925, Ca%C3%B1ada de la Virgen, 20.858056,-100.928056, http://en.wikipedia.org/wiki/Ca%C3%B1ada_de_la_Virgen
+926, Capacha, 19.281667,-103.691111, http://en.wikipedia.org/wiki/Capacha
+927, Castillo de Teayo (Mesoamerican site), 20.749722,-97.633333, http://en.wikipedia.org/wiki/Castillo_de_Teayo_(Mesoamerican_site)
+928, Cempoala, 19.445,-96.408889, http://en.wikipedia.org/wiki/Cempoala
+929, El Cerrito (archaeological site), 20.550833,-100.4425, http://en.wikipedia.org/wiki/El_Cerrito_(archaeological_site)
+930, Cerro de la Estrella (archeological site), 19.343611,-99.09, http://en.wikipedia.org/wiki/Cerro_de_la_Estrella_(archeological_site)
+931, Cerro de las Mesas, 18.716667,-96.15, http://en.wikipedia.org/wiki/Cerro_de_las_Mesas
+932, Cerro de las Minas, 17.803889,-97.775833, http://en.wikipedia.org/wiki/Cerro_de_las_Minas
+933, Chacchoben, 19.000817,-88.232381, http://en.wikipedia.org/wiki/Chacchoben
+934, Chalcatzingo, 18.683333,-98.766667, http://en.wikipedia.org/wiki/Chalcatzingo
+935, Chalchihuites, 23.476111,-103.880556, http://en.wikipedia.org/wiki/Chalchihuites
+936, El Chanal, 19.292778,-103.705556, http://en.wikipedia.org/wiki/El_Chanal
+937, Chiapa de Corzo (Mesoamerican site), 16.7,-93, http://en.wikipedia.org/wiki/Chiapa_de_Corzo_(Mesoamerican_site)
+938, Chichen Itza, 20.6829,-88.56865, http://en.wikipedia.org/wiki/Chichen_Itza
+939, Chimalhuac%C3%A1n (archaeological site), 19.416667,-98.9, http://en.wikipedia.org/wiki/Chimalhuac%C3%A1n_(archaeological_site)
+940, Cholula (Mesoamerican site), 19.06,-98.31, http://en.wikipedia.org/wiki/Cholula_(Mesoamerican_site)
+941, Chunchucmil, 20.63856,-90.19022, http://en.wikipedia.org/wiki/Chunchucmil
+942, Coatetelco, 18.726667,-99.328889, http://en.wikipedia.org/wiki/Coatetelco
+943, Coba, 20.494722,-87.736111, http://en.wikipedia.org/wiki/Coba
+944, Comalcalco, 18.280081,-93.201753, http://en.wikipedia.org/wiki/Comalcalco
+945, El Conde, 19.470556,-99.218611, http://en.wikipedia.org/wiki/El_Conde
+946, Cozumel, 20.416667,-86.916667, http://en.wikipedia.org/wiki/Cozumel
+947, Cuarenta Casas, 29.594456,-108.156986, http://en.wikipedia.org/wiki/Cuarenta_Casas
+948, Cuicuilco, 19.301667,-99.181667, http://en.wikipedia.org/wiki/Cuicuilco
+949, Cuyuxquihui, 20.304953,-97.262206, http://en.wikipedia.org/wiki/Cuyuxquihui
+950, Dainz%C3%BA, 17.003611,-96.556944, http://en.wikipedia.org/wiki/Dainz%C3%BA
+951, Dzibanche, 18.638611,-88.759167, http://en.wikipedia.org/wiki/Dzibanche
+952, Dzibilchaltun, 21.091,-89.5903, http://en.wikipedia.org/wiki/Dzibilchaltun
+953, Edzna, 19.5968,-90.2291, http://en.wikipedia.org/wiki/Edzna
+954, Ek%27 Balam, 20.891111,-88.136389, http://en.wikipedia.org/wiki/Ek%27_Balam
+955, El Encanto, -1.778889,-73.210556, http://en.wikipedia.org/wiki/El_Encanto
+956, Etlatongo, 17.4375,-97.3, http://en.wikipedia.org/wiki/Etlatongo
+957, Guachimontones, 20.694911,-103.836092, http://en.wikipedia.org/wiki/Guachimontones
+958, Guiengola, 16.385833,-95.323333, http://en.wikipedia.org/wiki/Guiengola
+959, Huamango, 19.9775,-99.865278, http://en.wikipedia.org/wiki/Huamango
+960, Huamelulpan (archaeological site), 17.550556,-97.416111, http://en.wikipedia.org/wiki/Huamelulpan_(archaeological_site)
+961, Huandacareo, 19.994722,-101.288611, http://en.wikipedia.org/wiki/Huandacareo
+962, Huapalcalco, 20.133333,-98.366667, http://en.wikipedia.org/wiki/Huapalcalco
+963, Hu%C3%A1poca, 29.189167,-108.343056, http://en.wikipedia.org/wiki/Hu%C3%A1poca
+964, Huatusco (archaeological site), 18.823333,-96.558333, http://en.wikipedia.org/wiki/Huatusco_(archaeological_site)
+965, Ichmul, 20.166667,-88.566667, http://en.wikipedia.org/wiki/Ichmul
+966, Ihuatzio, 19.566667,-101.583333, http://en.wikipedia.org/wiki/Ihuatzio
+967, Izamal, 20.931389,-89.017778, http://en.wikipedia.org/wiki/Izamal
+968, Izapa, 14.9,-92.166667, http://en.wikipedia.org/wiki/Izapa
+969, La Joya (archaeological site), 19.028333,-96.152156, http://en.wikipedia.org/wiki/La_Joya_(archaeological_site)
+970, Juxtlahuaca, 17.433333,-99.125, http://en.wikipedia.org/wiki/Juxtlahuaca
+971, Kabah (Maya site), 20.248425,-89.647297, http://en.wikipedia.org/wiki/Kabah_(Maya_site)
+972, Kohunlich, 18.419167,-88.79, http://en.wikipedia.org/wiki/Kohunlich
+973, Komchen, 21.103611,-89.6625, http://en.wikipedia.org/wiki/Komchen
+974, Labna, 20.1725,-89.579, http://en.wikipedia.org/wiki/Labna
+975, Laguna de los Cerros, 20.133333,-98.366667, http://en.wikipedia.org/wiki/Laguna_de_los_Cerros
+976, Lambityeco, 16.971667,-96.491944, http://en.wikipedia.org/wiki/Lambityeco
+977, Las Bocas, 18.666667,-98.316667, http://en.wikipedia.org/wiki/Las_Bocas
+978, Las Choapas, 20.533333,-97.45, http://en.wikipedia.org/wiki/Las_Choapas
+979, Las Flores (archaeological site), 22.249444,-97.876944, http://en.wikipedia.org/wiki/Las_Flores_(archaeological_site)
+980, El Manat%C3%AD, 17.622427,-94.641552, http://en.wikipedia.org/wiki/El_Manat%C3%AD
+981, Man%C3%AD, Yucat%C3%A1n, 20.383333,-89.4, http://en.wikipedia.org/wiki/Man%C3%AD,_Yucat%C3%A1n
+982, Matacapan, 18.5,-95.233333, http://en.wikipedia.org/wiki/Matacapan
+983, Mayapan, 20.629444,-89.460556, http://en.wikipedia.org/wiki/Mayapan
+984, Mesa de Cacahuatenco, 20.683333,-98.016667, http://en.wikipedia.org/wiki/Mesa_de_Cacahuatenco
+985, Miraflores, Baja California Sur, 23.368056,-109.777778, http://en.wikipedia.org/wiki/Miraflores,_Baja_California_Sur
+986, Misantla, 19.933333,-96.85, http://en.wikipedia.org/wiki/Misantla
+987, Mitla, 16.927222,-96.359444, http://en.wikipedia.org/wiki/Mitla
+988, Monte Alb%C3%A1n, 17.043889,-96.767778, http://en.wikipedia.org/wiki/Monte_Alb%C3%A1n
+989, Muyil, 20.077778,-87.615278, http://en.wikipedia.org/wiki/Muyil
+990, El Ope%C3%B1o, 19.934167,-102.307222, http://en.wikipedia.org/wiki/El_Ope%C3%B1o
+991, Otompan, 19.7,-98.75, http://en.wikipedia.org/wiki/Otompan
+992, Oxkintok, 20.560342,-89.95385, http://en.wikipedia.org/wiki/Oxkintok
+993, Oxtotitl%C3%A1n, 17.783333,-98.95, http://en.wikipedia.org/wiki/Oxtotitl%C3%A1n
+994, Palace of Cort%C3%A9s, Cuernavaca, 18.921339,-99.233375, http://en.wikipedia.org/wiki/Palace_of_Cort%C3%A9s,_Cuernavaca
+995, Palenque, 17.483978,-92.046328, http://en.wikipedia.org/wiki/Palenque
+996, Peralta (Mesoamerican site), 20.471389,-101.416389, http://en.wikipedia.org/wiki/Peralta_(Mesoamerican_site)
+997, La Pintada (archaeological site), 28.587686,-110.963889, http://en.wikipedia.org/wiki/La_Pintada_(archaeological_site)
+998, Plazuelas, 20.403333,-101.827222, http://en.wikipedia.org/wiki/Plazuelas
+999, La Quemada, 22.456389,-102.821111, http://en.wikipedia.org/wiki/La_Quemada
+1000, Quiahuiztlan, 19.669722,-96.415, http://en.wikipedia.org/wiki/Quiahuiztlan
+1001, Remojadas, 18.983333,-96.316667, http://en.wikipedia.org/wiki/Remojadas
+1002, R%C3%ADo Bec, 18.373333,-89.358889, http://en.wikipedia.org/wiki/R%C3%ADo_Bec
+1003, San Jos%C3%A9 Mogote, 17.1675,-96.803333, http://en.wikipedia.org/wiki/San_Jos%C3%A9_Mogote
+1004, San Lorenzo Tenochtitl%C3%A1n, 17.753611,-94.76, http://en.wikipedia.org/wiki/San_Lorenzo_Tenochtitl%C3%A1n
+1005, San Miguel Ixtapan (archaeological site), 18.8075,-100.155278, http://en.wikipedia.org/wiki/San_Miguel_Ixtapan_(archaeological_site)
+1006, San Pablo Huitzo, 17.25,-96.866667, http://en.wikipedia.org/wiki/San_Pablo_Huitzo
+1007, Santa Cecilia Acatitlan, 19.552583,-99.173333, http://en.wikipedia.org/wiki/Santa_Cecilia_Acatitlan
+1008, Sayil, 20.178,-89.6525, http://en.wikipedia.org/wiki/Sayil
+1009, Simojovel, 17.15,-92.716667, http://en.wikipedia.org/wiki/Simojovel
+1010, La Soledad de Maciel, 17.516667,-101.316667, http://en.wikipedia.org/wiki/La_Soledad_de_Maciel
+1011, Suchilquitongo (archaeological site), 17.25,-96.883333, http://en.wikipedia.org/wiki/Suchilquitongo_(archaeological_site)
+1012, El Taj%C3%ADn, 20.448058,-97.378242, http://en.wikipedia.org/wiki/El_Taj%C3%ADn
+1013, Tamaulipas, 24.283333,-98.566667, http://en.wikipedia.org/wiki/Tamaulipas
+1014, Tapachula, 14.9,-92.266667, http://en.wikipedia.org/wiki/Tapachula
+1015, Templo Mayor, 19.435,-99.131389, http://en.wikipedia.org/wiki/Templo_Mayor
+1016, Tenayuca, 19.532167,-99.168472, http://en.wikipedia.org/wiki/Tenayuca
+1017, Teopantecuanitlan, 17.901667,-99.110556, http://en.wikipedia.org/wiki/Teopantecuanitlan
+1018, Teopanzolco, 18.930447,-99.222014, http://en.wikipedia.org/wiki/Teopanzolco
+1019, Teotenango, 19.108611,-99.597222, http://en.wikipedia.org/wiki/Teotenango
+1020, Teotihuacan, 19.6925,-98.8438, http://en.wikipedia.org/wiki/Teotihuacan
+1021, El Tepozteco, 19.000911,-99.101164, http://en.wikipedia.org/wiki/El_Tepozteco
+1022, Tila, Chiapas, 17.3,-92.433333, http://en.wikipedia.org/wiki/Tila,_Chiapas
+1023, Tingambato, 19.5,-101.85, http://en.wikipedia.org/wiki/Tingambato
+1024, Tlatelolco (archaeological site), 19.451083,-99.1375, http://en.wikipedia.org/wiki/Tlatelolco_(archaeological_site)
+1025, Tlatilco, 19.5,-99.25, http://en.wikipedia.org/wiki/Tlatilco
+1026, Tonin%C3%A1, 16.901219,-92.009675, http://en.wikipedia.org/wiki/Tonin%C3%A1
+1027, Tortuguero (Maya site), 17.686944,-92.568056, http://en.wikipedia.org/wiki/Tortuguero_(Maya_site)
+1028, Tres Zapotes, 18.466667,-95.433333, http://en.wikipedia.org/wiki/Tres_Zapotes
+1029, Tula (Mesoamerican site), 20.064156,-99.340803, http://en.wikipedia.org/wiki/Tula_(Mesoamerican_site)
+1030, Tulum, 20.214722,-87.428889, http://en.wikipedia.org/wiki/Tulum
+1031, Tututepec, 16.116667,-97.6, http://en.wikipedia.org/wiki/Tututepec
+1032, Tzintzuntzan (Mesoamerican site), 19.623611,-101.574167, http://en.wikipedia.org/wiki/Tzintzuntzan_(Mesoamerican_site)
+1033, Tzum, 53.157778,5.564444, http://en.wikipedia.org/wiki/Tzum
+1034, Uaymil, 20.4549,-90.4775, http://en.wikipedia.org/wiki/Uaymil
+1035, La Union, 16.5,120.416667, http://en.wikipedia.org/wiki/La_Union
+1036, Uxmal, 20.359444,-89.771389, http://en.wikipedia.org/wiki/Uxmal
+1037, El Vallecito, 32.516667,-116.248056, http://en.wikipedia.org/wiki/El_Vallecito
+1038, La Venta, 18.103299,-94.040192, http://en.wikipedia.org/wiki/La_Venta
+1039, Xcaret, 20.578056,-87.119167, http://en.wikipedia.org/wiki/Xcaret
+1040, Xlapak, 20.173611,-89.608333, http://en.wikipedia.org/wiki/Xlapak
+1041, Xochicalco, 18.803889,-99.295917, http://en.wikipedia.org/wiki/Xochicalco
+1042, Xochipala, 17.816667,-99.616667, http://en.wikipedia.org/wiki/Xochipala
+1043, Xochitecatl, 19.24483,-98.34939, http://en.wikipedia.org/wiki/Xochitecatl
+1044, Xpujil, 18.505556,-89.397222, http://en.wikipedia.org/wiki/Xpujil
+1045, Yagul, 16.958333,-96.450278, http://en.wikipedia.org/wiki/Yagul
+1046, Yaxchilan, 16.9,-90.966667, http://en.wikipedia.org/wiki/Yaxchilan
+1047, Yaxuna, 20.45,-88.666667, http://en.wikipedia.org/wiki/Yaxuna
+1048, Yucuita, 17.5,-97.266667, http://en.wikipedia.org/wiki/Yucuita
+1049, Zaachila, 16.95,-96.75, http://en.wikipedia.org/wiki/Zaachila
+1050, El Zapotal, 21.611111,-98.386667, http://en.wikipedia.org/wiki/El_Zapotal
+1051, Nan Madol, 6.841944,158.332222, http://en.wikipedia.org/wiki/Nan_Madol
+1052, Chuuk State, 7.416667,151.783333, http://en.wikipedia.org/wiki/Chuuk_State
+1053, Lixus (ancient city), 35.2,-6.111111, http://en.wikipedia.org/wiki/Lixus_(ancient_city)
+1054, Tamuda, 35.533333,-5.383333, http://en.wikipedia.org/wiki/Tamuda
+1055, Volubilis, 34.071111,-5.553611, http://en.wikipedia.org/wiki/Volubilis
+1056, Te Wairoa, -38.212346,176.357015, http://en.wikipedia.org/wiki/Te_Wairoa
+1057, Albert Park tunnels, -36.8514,174.767, http://en.wikipedia.org/wiki/Albert_Park_tunnels
+1058, Borre mound cemetery, 59.3825,10.459444, http://en.wikipedia.org/wiki/Borre_mound_cemetery
+1059, Tune ship, 59.2792,11.0028, http://en.wikipedia.org/wiki/Tune_ship
+1060, Harappa, 30.628889,72.863889, http://en.wikipedia.org/wiki/Harappa
+1061, Mehrgarh, 29.383333,67.616667, http://en.wikipedia.org/wiki/Mehrgarh
+1062, Mohenjo daro, 27.329167,68.138889, http://en.wikipedia.org/wiki/Mohenjo-daro
+1063, Taxila, 33.745833,72.7875, http://en.wikipedia.org/wiki/Taxila
+1064, Mankiala, 33.5,74.333333, http://en.wikipedia.org/wiki/Mankiala
+1065, Lahore Fort, 31.590278,74.309722, http://en.wikipedia.org/wiki/Lahore_Fort
+1066, Badshahi Mosque, 31.588075,74.310125, http://en.wikipedia.org/wiki/Badshahi_Mosque
+1067, Ranikot Fort, 25.896389,67.9025, http://en.wikipedia.org/wiki/Ranikot_Fort
+1068, Takht i Bahi, 34.320833,71.945833, http://en.wikipedia.org/wiki/Takht-i-Bahi
+1069, Rohtas Fort, 32.9625,73.588889, http://en.wikipedia.org/wiki/Rohtas_Fort
+1070, Aimeliik, 7.416667,134.516667, http://en.wikipedia.org/wiki/Aimeliik
+1071, Acaray, -11.066667,-77.55, http://en.wikipedia.org/wiki/Acaray
+1072, Cahuachi, -14.818611,-75.116667, http://en.wikipedia.org/wiki/Cahuachi
+1073, Caral, -10.893611,-77.520278, http://en.wikipedia.org/wiki/Caral
+1074, Chan Chan, -8.110556,-79.075, http://en.wikipedia.org/wiki/Chan_Chan
+1075, Chav%C3%ADn de Huantar, -9.592778,-77.178333, http://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar
+1076, Choquequirao, -13.392778,-72.873889, http://en.wikipedia.org/wiki/Choquequirao
+1077, Cumbe Mayo, -7.189722,-78.573889, http://en.wikipedia.org/wiki/Cumbe_Mayo
+1078, Guitarrero Cave, -9.2,-77.7, http://en.wikipedia.org/wiki/Guitarrero_Cave
+1079, Huaca de la Luna, -8.134981,-78.990944, http://en.wikipedia.org/wiki/Huaca_de_la_Luna
+1080, Kuelap, -6.418056,-77.923333, http://en.wikipedia.org/wiki/Kuelap
+1081, Machu Picchu, -13.163333,-72.545556, http://en.wikipedia.org/wiki/Machu_Picchu
+1082, Nazca Lines, -14.716667,-75.133333, http://en.wikipedia.org/wiki/Nazca_Lines
+1083, Ollantaytambo, -13.258056,-72.263333, http://en.wikipedia.org/wiki/Ollantaytambo
+1084, Pachacamac, -12.256667,-76.900278, http://en.wikipedia.org/wiki/Pachacamac
+1085, P%C3%ADsac, -13.424167,-71.857778, http://en.wikipedia.org/wiki/P%C3%ADsac
+1086, Raqch%27i, -14.175,-71.366667, http://en.wikipedia.org/wiki/Raqch%27i
+1087, Sayhuite, -13.547222,-72.802778, http://en.wikipedia.org/wiki/Sayhuite
+1088, Sillustani, -15.721111,-70.158333, http://en.wikipedia.org/wiki/Sillustani
+1089, Sip%C3%A1n, -6.810278,-79.601667, http://en.wikipedia.org/wiki/Sip%C3%A1n
+1090, Tambo Colorado, -13.705278,-75.829167, http://en.wikipedia.org/wiki/Tambo_Colorado
+1091, Tambomachay, -13.480833,-71.964722, http://en.wikipedia.org/wiki/Tambomachay
+1092, T%C3%BAcume, -6.515833,-79.844167, http://en.wikipedia.org/wiki/T%C3%BAcume
+1093, Angono Petroglyphs, 14.532872,121.186794, http://en.wikipedia.org/wiki/Angono_Petroglyphs
+1094, Banaue Rice Terraces, 16.910556,121.054167, http://en.wikipedia.org/wiki/Banaue_Rice_Terraces
+1095, Butuan, 8.95,125.533333, http://en.wikipedia.org/wiki/Butuan
+1096, Fort Santiago, 14.595,120.969444, http://en.wikipedia.org/wiki/Fort_Santiago
+1097, Manila, 14.583333,120.966667, http://en.wikipedia.org/wiki/Manila
+1098, Fort Pilar, 6.901111,122.082222, http://en.wikipedia.org/wiki/Fort_Pilar
+1099, Zamboanga Peninsula, 7.833333,122.416667, http://en.wikipedia.org/wiki/Zamboanga_Peninsula
+1100, Fort San Pedro, 10.292222,123.905833, http://en.wikipedia.org/wiki/Fort_San_Pedro
+1101, Cebu, 10.316667,123.75, http://en.wikipedia.org/wiki/Cebu
+1102, Intramuros, 14.590833,120.975, http://en.wikipedia.org/wiki/Intramuros
+1103, Manila, 14.583333,120.966667, http://en.wikipedia.org/wiki/Manila
+1104, Benguet, 16.5,120.666667, http://en.wikipedia.org/wiki/Benguet
+1105, Cagayan Valley, 17.616667,121.716667, http://en.wikipedia.org/wiki/Cagayan_Valley
+1106, Sagada, 17.083333,120.9, http://en.wikipedia.org/wiki/Sagada
+1107, Mountain Province, 17.083333,121.166667, http://en.wikipedia.org/wiki/Mountain_Province
+1108, Tabon Caves, 9.279882,117.9814, http://en.wikipedia.org/wiki/Tabon_Caves
+1109, Palawan, 10,118.833333, http://en.wikipedia.org/wiki/Palawan
+1110, Biskupin, 52.788611,17.729722, http://en.wikipedia.org/wiki/Biskupin
+1111, Giecz, 52.320833,17.373611, http://en.wikipedia.org/wiki/Giecz
+1112, Krzemionki, 50.972778,21.494167, http://en.wikipedia.org/wiki/Krzemionki
+1113, Odry, Poland, 53.890833,18.019444, http://en.wikipedia.org/wiki/Odry,_Poland
+1114, Ostr%C3%B3w Lednicki, 52.52667,17.3778, http://en.wikipedia.org/wiki/Ostr%C3%B3w_Lednicki
+1115, Otal%C4%85%C5%BCka, 51.670278,20.74, http://en.wikipedia.org/wiki/Otal%C4%85%C5%BCka
+1116, Cemit%C3%A9rio das %C3%82ncoras, 38.650064,-27.219267, http://en.wikipedia.org/wiki/Cemit%C3%A9rio_das_%C3%82ncoras
+1117, Zubarah, 25.978611,51.026389, http://en.wikipedia.org/wiki/Zubarah
+1118, Acidava, 44.375411,24.277634, http://en.wikipedia.org/wiki/Acidava
+1119, Apulon, 46.209122,23.485422, http://en.wikipedia.org/wiki/Apulon
+1120, Alba Iulia, 46.066944,23.57, http://en.wikipedia.org/wiki/Alba_Iulia
+1121, Argedava, 44.3252,25.9069, http://en.wikipedia.org/wiki/Argedava
+1122, Argidava, 45.08,21.55, http://en.wikipedia.org/wiki/Argidava
+1123, Capidava, 44.493611,28.090278, http://en.wikipedia.org/wiki/Capidava
+1124, Cernavod%C4%83, 44.338056,28.033611, http://en.wikipedia.org/wiki/Cernavod%C4%83
+1125, Porolissum, 47.1793,23.1573, http://en.wikipedia.org/wiki/Porolissum
+1126, Sarmizegetusa Regia, 45.6219,23.3093, http://en.wikipedia.org/wiki/Sarmizegetusa_Regia
+1127, Constan%C8%9Ba, 44.173333,28.638333, http://en.wikipedia.org/wiki/Constan%C8%9Ba
+1128, Arkaim, 52.626944,59.561111, http://en.wikipedia.org/wiki/Arkaim
+1129, Ignateva Cave, 54.8992,57.7807, http://en.wikipedia.org/wiki/Ignateva_Cave
+1130, Ipatovo, Stavropol Krai, 45,42, http://en.wikipedia.org/wiki/Ipatovo,_Stavropol_Krai
+1131, Krivoye Lake, 53.259167,59.228056, http://en.wikipedia.org/wiki/Krivoye_Lake
+1132, Staraya Ladoga, 59.983333,32.3, http://en.wikipedia.org/wiki/Staraya_Ladoga
+1133, Pazyryk burials, 49.579,88.153, http://en.wikipedia.org/wiki/Pazyryk_burials
+1134, Sarkel, 47.705,42.273056, http://en.wikipedia.org/wiki/Sarkel
+1135, Sintashta, 52.492083,60.177956, http://en.wikipedia.org/wiki/Sintashta
+1136, Tanais, 47.268889,39.335, http://en.wikipedia.org/wiki/Tanais
+1137, Tmutarakan, 45.219167,36.714167, http://en.wikipedia.org/wiki/Tmutarakan
+1138, Ubsunur Hollow, 50.275,92.7197, http://en.wikipedia.org/wiki/Ubsunur_Hollow
+1139, Veliky Novgorod, 58.55,31.283333, http://en.wikipedia.org/wiki/Veliky_Novgorod
+1140, %C4%8Curug, 45.466667,20.066667, http://en.wikipedia.org/wiki/%C4%8Curug
+1141, Gamzigrad, 43.899167,22.185, http://en.wikipedia.org/wiki/Gamzigrad
+1142, Justiniana Prima, 42.953247,21.669972, http://en.wikipedia.org/wiki/Justiniana_Prima
+1143, Lepenski Vir, 44.561111,22.024167, http://en.wikipedia.org/wiki/Lepenski_Vir
+1144, Mediana, 43.310278,21.948889, http://en.wikipedia.org/wiki/Mediana
+1145, Petrovaradin Fortress, 45.25216,19.862165, http://en.wikipedia.org/wiki/Petrovaradin_Fortress
+1146, Plo%C4%8Dnik, 43.201944,21.355556, http://en.wikipedia.org/wiki/Plo%C4%8Dnik
+1147, Remesiana, 43.218,22.307439, http://en.wikipedia.org/wiki/Remesiana
+1148, Ta%C5%A1majdan Park, 44.8092,20.470767, http://en.wikipedia.org/wiki/Ta%C5%A1majdan_Park
+1149, Trajan%27s Bridge, 44.623769,22.66705, http://en.wikipedia.org/wiki/Trajan%27s_Bridge
+1150, Timacum Minus, 43.641694,22.266969, http://en.wikipedia.org/wiki/Timacum_Minus
+1151, Ulpiana, 42.596281,21.175025, http://en.wikipedia.org/wiki/Ulpiana
+1152, Blombos Cave, -34.414103,21.217689, http://en.wikipedia.org/wiki/Blombos_Cave
+1153, Border Cave, -27.025833,31.988889, http://en.wikipedia.org/wiki/Border_Cave
+1154, Cango Caves, -33.393,22.215, http://en.wikipedia.org/wiki/Cango_Caves
+1155, Coopers Cave, -26.012778,27.745833, http://en.wikipedia.org/wiki/Coopers_Cave
+1156, Gladysvale Cave, -25.9,27.75, http://en.wikipedia.org/wiki/Gladysvale_Cave
+1157, Hoedjiespunt, -33.028611,17.959444, http://en.wikipedia.org/wiki/Hoedjiespunt
+1158, Klasies River Caves, -34.108103,24.390139, http://en.wikipedia.org/wiki/Klasies_River_Caves
+1159, Kromdraai fossil site, -26,27.75, http://en.wikipedia.org/wiki/Kromdraai_fossil_site
+1160, Makapansgat, -24.140833,29.200833, http://en.wikipedia.org/wiki/Makapansgat
+1161, Motsetsi, -25.908333,27.8325, http://en.wikipedia.org/wiki/Motsetsi
+1162, Plovers Lake, -25.9775,27.776667, http://en.wikipedia.org/wiki/Plovers_Lake
+1163, Sterkfontein, -26.015656,27.734294, http://en.wikipedia.org/wiki/Sterkfontein
+1164, Swartkrans, -25.929167,27.788889, http://en.wikipedia.org/wiki/Swartkrans
+1165, Sibudu Cave, -29.522627,31.085895, http://en.wikipedia.org/wiki/Sibudu_Cave
+1166, Wonderwerk Cave, -27.845,23.553889, http://en.wikipedia.org/wiki/Wonderwerk_Cave
+1167, Cave of Altamira, 43.3825,-4.116111, http://en.wikipedia.org/wiki/Cave_of_Altamira
+1168, Abhayagiri vih%C4%81ra, 8.35,80.383333, http://en.wikipedia.org/wiki/Abhayagiri_vih%C4%81ra
+1169, Anuradhapura, 8.35,80.383333, http://en.wikipedia.org/wiki/Anuradhapura
+1170, Avukana Buddha statue, 8.022778,80.520278, http://en.wikipedia.org/wiki/Avukana_Buddha_statue
+1171, Buduruvagala, 6.686944,81.078333, http://en.wikipedia.org/wiki/Buduruvagala
+1172, Gal Vihara, 7.96588,81.00497, http://en.wikipedia.org/wiki/Gal_Vihara
+1173, Hunugalagala Limestone Cave, 6.765278,80.889167, http://en.wikipedia.org/wiki/Hunugalagala_Limestone_Cave
+1174, Polonnaruwa, 7.933333,81, http://en.wikipedia.org/wiki/Polonnaruwa
+1175, Sigiriya, 7.956944,80.759722, http://en.wikipedia.org/wiki/Sigiriya
+1176, Thanthirimale, 8.35,80.383333, http://en.wikipedia.org/wiki/Thanthirimale
+1177, Bawshar, 23.533333,58.383333, http://en.wikipedia.org/wiki/Bawshar
+1178, Izki, 22.933889,57.775, http://en.wikipedia.org/wiki/Izki
+1179, Khor Rori, 17.039,54.434444, http://en.wikipedia.org/wiki/Khor_Rori
+1180, Samad al Shan, 22.811111,58.15, http://en.wikipedia.org/wiki/Samad_al-Shan
+1181, Adels%C3%B6, 59.380833,17.496111, http://en.wikipedia.org/wiki/Adels%C3%B6
+1182, Alby, %C3%96land, 56.482778,16.575278, http://en.wikipedia.org/wiki/Alby,_%C3%96land
+1183, Birka, 59.336211,17.545467, http://en.wikipedia.org/wiki/Birka
+1184, Gamla Uppsala, 59.894,17.638, http://en.wikipedia.org/wiki/Gamla_Uppsala
+1185, Gene fornby, 63.25,18.7, http://en.wikipedia.org/wiki/Gene_fornby
+1186, Helg%C3%B6, 59.278511,17.680435, http://en.wikipedia.org/wiki/Helg%C3%B6
+1187, Sigtuna, 59.616667,17.716667, http://en.wikipedia.org/wiki/Sigtuna
+1188, Upp%C3%A5kra, 55.666667,13.17, http://en.wikipedia.org/wiki/Upp%C3%A5kra
+1189, Valsg%C3%A4rde, 59.926083,17.626333, http://en.wikipedia.org/wiki/Valsg%C3%A4rde
+1190, Vasa (ship), 59.327778,18.091111, http://en.wikipedia.org/wiki/Vasa_(ship)
+1191, Vendel, 60.163056,17.601667, http://en.wikipedia.org/wiki/Vendel
+1192, Bosra, 32.516667,36.483333, http://en.wikipedia.org/wiki/Bosra
+1193, Mari, Syria, 34.549444,40.89, http://en.wikipedia.org/wiki/Mari,_Syria
+1194, Palmyra, 34.56,38.267222, http://en.wikipedia.org/wiki/Palmyra
+1195, Qatna, 34.835,36.865833, http://en.wikipedia.org/wiki/Qatna
+1196, Tell Arbid, 36.872364,41.021558, http://en.wikipedia.org/wiki/Tell_Arbid
+1197, Tell Barri, 36.739167,41.127222, http://en.wikipedia.org/wiki/Tell_Barri
+1198, Tell Beydar, 36.737778,40.586944, http://en.wikipedia.org/wiki/Tell_Beydar
+1199, Tell Brak, 36.667617,41.058644, http://en.wikipedia.org/wiki/Tell_Brak
+1200, Tell Chuera, 36.6458,39.4983, http://en.wikipedia.org/wiki/Tell_Chuera
+1201, Hamoukar, 36.811944,41.955833, http://en.wikipedia.org/wiki/Hamoukar
+1202, Tell Leilan, 36.957222,41.505278, http://en.wikipedia.org/wiki/Tell_Leilan
+1203, Urkesh, 37.056944,40.997222, http://en.wikipedia.org/wiki/Urkesh
+1204, Ban Chiang, 17.548611,103.358333, http://en.wikipedia.org/wiki/Ban_Chiang
+1205, Ban Non Wat, 15.274414,102.268897, http://en.wikipedia.org/wiki/Ban_Non_Wat
+1206, Carthage, 36.858056,10.330833, http://en.wikipedia.org/wiki/Carthage
+1207, Aegospotami, 40.364072,26.630833, http://en.wikipedia.org/wiki/Aegospotami
+1208, Aizanoi, 39.2,29.616667, http://en.wikipedia.org/wiki/Aizanoi
+1209, Akdamar Island, 38.341667,43.035278, http://en.wikipedia.org/wiki/Akdamar_Island
+1210, Akhisar, 38.916667,27.833333, http://en.wikipedia.org/wiki/Akhisar
+1211, Alabanda, 37.591667,27.985556, http://en.wikipedia.org/wiki/Alabanda
+1212, Alaca H%C3%B6y%C3%BCk, 40.234444,34.695556, http://en.wikipedia.org/wiki/Alaca_H%C3%B6y%C3%BCk
+1213, Alahan Monastery, 36.791323,33.353701, http://en.wikipedia.org/wiki/Alahan_Monastery
+1214, Alalakh, 36.237778,36.384722, http://en.wikipedia.org/wiki/Alalakh
+1215, Alexandria Troas, 39.751667,26.158611, http://en.wikipedia.org/wiki/Alexandria_Troas
+1216, Allianoi, 39.234722,27.305556, http://en.wikipedia.org/wiki/Allianoi
+1217, Alt%C4%B1ntepe, 39.6965,39.6466, http://en.wikipedia.org/wiki/Alt%C4%B1ntepe
+1218, Amorium, 39.020556,31.289167, http://en.wikipedia.org/wiki/Amorium
+1219, Amyzon, 37.6087,27.711, http://en.wikipedia.org/wiki/Amyzon
+1220, Anastasian Wall, 41.2,28.333333, http://en.wikipedia.org/wiki/Anastasian_Wall
+1221, Anazarbus, 37.263889,35.905556, http://en.wikipedia.org/wiki/Anazarbus
+1222, Anemurium, 36.024269,32.8026, http://en.wikipedia.org/wiki/Anemurium
+1223, Ani, 40.5075,43.572778, http://en.wikipedia.org/wiki/Ani
+1224, Antandrus, 39.575833,26.790556, http://en.wikipedia.org/wiki/Antandrus
+1225, Antioch, 36.2,36.15, http://en.wikipedia.org/wiki/Antioch
+1226, Antioch on the Maeander, 37.873435,28.574239, http://en.wikipedia.org/wiki/Antioch_on_the_Maeander
+1227, Apamea (Phrygia), 38.071667,30.165556, http://en.wikipedia.org/wiki/Apamea_(Phrygia)
+1228, Aphrodisias, 37.708333,28.723611, http://en.wikipedia.org/wiki/Aphrodisias
+1229, Arap Mosque, 41.024444,28.970833, http://en.wikipedia.org/wiki/Arap_Mosque
+1230, Ariassos, 37.1549,30.4885, http://en.wikipedia.org/wiki/Ariassos
+1231, Arycanda, 36.513889,30.06, http://en.wikipedia.org/wiki/Arycanda
+1232, Aspendos, 36.938889,31.172222, http://en.wikipedia.org/wiki/Aspendos
+1233, Assos, 39.487778,26.336944, http://en.wikipedia.org/wiki/Assos
+1234, Atarneus, 39.091389,26.921389, http://en.wikipedia.org/wiki/Atarneus
+1235, Aytap, 36.320556,32.235, http://en.wikipedia.org/wiki/Aytap
+1236, Be%C5%9Fparmak Mountains, 37.498108,27.526808, http://en.wikipedia.org/wiki/Be%C5%9Fparmak_Mountains
+1237, Beycesultan, 38.25,29.7, http://en.wikipedia.org/wiki/Beycesultan
+1238, Cape Gelidonya, 36.636111,30.557222, http://en.wikipedia.org/wiki/Cape_Gelidonya
+1239, Carchemish, 36.829722,38.015, http://en.wikipedia.org/wiki/Carchemish
+1240, Cardia (Thrace), 40.547222,26.740833, http://en.wikipedia.org/wiki/Cardia_(Thrace)
+1241, Celaenae, 38.066667,30.166667, http://en.wikipedia.org/wiki/Celaenae
+1242, Chalcedon, 40.983333,29.033333, http://en.wikipedia.org/wiki/Chalcedon
+1243, Claros, 38.005,27.192778, http://en.wikipedia.org/wiki/Claros
+1244, Cleopatra%27s Gate, 36.913028,34.892056, http://en.wikipedia.org/wiki/Cleopatra%27s_Gate
+1245, Colophon (city), 38.108889,27.141667, http://en.wikipedia.org/wiki/Colophon_(city)
+1246, Colossae, 37.787828,29.261542, http://en.wikipedia.org/wiki/Colossae
+1247, Comana (Cappadocia), 38.33,36.33, http://en.wikipedia.org/wiki/Comana_(Cappadocia)
+1248, Comana Pontica, 40.357369,36.638592, http://en.wikipedia.org/wiki/Comana_Pontica
+1249, Corycus, 36.465278,34.154167, http://en.wikipedia.org/wiki/Corycus
+1250, Cremna, Pisidia, 37.500139,30.6911, http://en.wikipedia.org/wiki/Cremna,_Pisidia
+1251, Cyme (Aeolis), 38.860028,27.059326, http://en.wikipedia.org/wiki/Cyme_(Aeolis)
+1252, Cyzicus, 40.38,27.89, http://en.wikipedia.org/wiki/Cyzicus
+1253, %C3%87atalh%C3%B6y%C3%BCk, 37.6675,32.828333, http://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk
+1254, %C3%87ay%C3%B6n%C3%BC, 38.216389,39.726389, http://en.wikipedia.org/wiki/%C3%87ay%C3%B6n%C3%BC
+1255, Derbe, 37.438889,33.163889, http://en.wikipedia.org/wiki/Derbe
+1256, Didyma, 37.385,27.256389, http://en.wikipedia.org/wiki/Didyma
+1257, Docimium, 38.866667,30.75, http://en.wikipedia.org/wiki/Docimium
+1258, Gaziantep, 37.066667,37.383333, http://en.wikipedia.org/wiki/Gaziantep
+1259, Dolichiste, 36.183333,29.883333, http://en.wikipedia.org/wiki/Dolichiste
+1260, Dorylaeum, 39.783333,30.516667, http://en.wikipedia.org/wiki/Dorylaeum
+1261, Eflatun P%C4%B1nar, 37.8257,31.6747, http://en.wikipedia.org/wiki/Eflatun_P%C4%B1nar
+1262, Ephesus, 37.941111,27.341944, http://en.wikipedia.org/wiki/Ephesus
+1263, Elaiussa Sebaste, 36.483624,34.173725, http://en.wikipedia.org/wiki/Elaiussa_Sebaste
+1264, Emirda%C4%9F, 39.016667,31.15, http://en.wikipedia.org/wiki/Emirda%C4%9F
+1265, Epiphania, Cilicia, 36.972222,36.125, http://en.wikipedia.org/wiki/Epiphania,_Cilicia
+1266, Erythrae, 38.382778,26.480833, http://en.wikipedia.org/wiki/Erythrae
+1267, Euchaita, 40.57,35.268, http://en.wikipedia.org/wiki/Euchaita
+1268, Euromus, 37.374167,27.675278, http://en.wikipedia.org/wiki/Euromus
+1269, Faustinopolis, 37.55,34.5, http://en.wikipedia.org/wiki/Faustinopolis
+1270, Germanicopolis (Bithynia), 40.166667,28.883333, http://en.wikipedia.org/wiki/Germanicopolis_(Bithynia)
+1271, G%C3%B6bekli Tepe, 37.223056,38.9225, http://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe
+1272, G%C3%B6zl%C3%BCkule, 36.916667,34.9, http://en.wikipedia.org/wiki/G%C3%B6zl%C3%BCkule
+1273, Gordium, 39.655,31.994167, http://en.wikipedia.org/wiki/Gordium
+1274, Gryneion, 38.874444,27.069167, http://en.wikipedia.org/wiki/Gryneion
+1275, Hacilar, 37.6,30.1, http://en.wikipedia.org/wiki/Hacilar
+1276, Halicarnassus, 37.037778,27.424167, http://en.wikipedia.org/wiki/Halicarnassus
+1277, Hamaxitus, 39.538333,26.093056, http://en.wikipedia.org/wiki/Hamaxitus
+1278, Harran, 36.8775,39.033889, http://en.wikipedia.org/wiki/Harran
+1279, Hasankeyf, 37.714108,41.413167, http://en.wikipedia.org/wiki/Hasankeyf
+1280, Hattusa, 40.019722,34.615278, http://en.wikipedia.org/wiki/Hattusa
+1281, Hierapolis, 37.925,29.125833, http://en.wikipedia.org/wiki/Hierapolis
+1282, Ho%C5%9Fap Castle, 38.316944,43.801667, http://en.wikipedia.org/wiki/Ho%C5%9Fap_Castle
+1283, H%C3%BCseyindede Tepe, 40.13,34.34, http://en.wikipedia.org/wiki/H%C3%BCseyindede_Tepe
+1284, Iasos, 37.277778,27.586389, http://en.wikipedia.org/wiki/Iasos
+1285, Ivriz, 37.409722,34.1725, http://en.wikipedia.org/wiki/Ivriz
+1286, Hattusa, 40.019722,34.615278, http://en.wikipedia.org/wiki/Hattusa
+1287, Kadirli, 37.369722,36.1, http://en.wikipedia.org/wiki/Kadirli
+1288, Kaman Kaleh%C3%B6y%C3%BCk, 39.362778,33.786667, http://en.wikipedia.org/wiki/Kaman-Kaleh%C3%B6y%C3%BCk
+1289, Karatepe, 37.258801,36.247601, http://en.wikipedia.org/wiki/Karatepe
+1290, Karaman, 37.181944,33.218056, http://en.wikipedia.org/wiki/Karaman
+1291, Karatepe, 37.258801,36.247601, http://en.wikipedia.org/wiki/Karatepe
+1292, Kaunos, 36.826389,28.621389, http://en.wikipedia.org/wiki/Kaunos
+1293, Kayak%C3%B6y, 36.574983,29.091094, http://en.wikipedia.org/wiki/Kayak%C3%B6y
+1294, Kemalpa%C5%9Fa, 38.427778,27.416111, http://en.wikipedia.org/wiki/Kemalpa%C5%9Fa
+1295, Kerkenes, 39.75,35.065556, http://en.wikipedia.org/wiki/Kerkenes
+1296, Klazomenai, 38.358167,26.767583, http://en.wikipedia.org/wiki/Klazomenai
+1297, Knidos, 36.685833,27.375, http://en.wikipedia.org/wiki/Knidos
+1298, K%C3%BCltepe, 38.85,35.633333, http://en.wikipedia.org/wiki/K%C3%BCltepe
+1299, Ku%C5%9Fakl%C4%B1, 39.291667,34.609167, http://en.wikipedia.org/wiki/Ku%C5%9Fakl%C4%B1
+1300, Ku%C5%9Ftul Monastery, 40.796389,39.683889, http://en.wikipedia.org/wiki/Ku%C5%9Ftul_Monastery
+1301, Labraunda, 37.418889,27.820278, http://en.wikipedia.org/wiki/Labraunda
+1302, Lagina, 37.378,28.0397, http://en.wikipedia.org/wiki/Lagina
+1303, Laodicea on the Lycus, 37.835833,29.1075, http://en.wikipedia.org/wiki/Laodicea_on_the_Lycus
+1304, Lebedus, 38.078056,26.964722, http://en.wikipedia.org/wiki/Lebedus
+1305, Letoon, 36.331944,29.289722, http://en.wikipedia.org/wiki/Letoon
+1306, Limantepe, 38.363333,26.775833, http://en.wikipedia.org/wiki/Limantepe
+1307, Limyra, 36.342831,30.170519, http://en.wikipedia.org/wiki/Limyra
+1308, Loryma, 36.566111,28.015278, http://en.wikipedia.org/wiki/Loryma
+1309, Lystra, 37.664119,32.210711, http://en.wikipedia.org/wiki/Lystra
+1310, Lysimachia (Thrace), 40.583333,26.883333, http://en.wikipedia.org/wiki/Lysimachia_(Thrace)
+1311, Magnesia on the Maeander, 37.852778,27.527222, http://en.wikipedia.org/wiki/Magnesia_on_the_Maeander
+1312, Metropolis (Anatolia), 38.125,27.3225, http://en.wikipedia.org/wiki/Metropolis_(Anatolia)
+1313, Miletus, 37.530278,27.278333, http://en.wikipedia.org/wiki/Miletus
+1314, Mokissos, 38.185556,34.207222, http://en.wikipedia.org/wiki/Mokissos
+1315, Mopsuestia, 36.957778,35.623889, http://en.wikipedia.org/wiki/Mopsuestia
+1316, Mount Nemrut, 37.981667,38.741111, http://en.wikipedia.org/wiki/Mount_Nemrut
+1317, Myndus, 37.053056,27.233333, http://en.wikipedia.org/wiki/Myndus
+1318, Myra, 36.259061,29.985175, http://en.wikipedia.org/wiki/Myra
+1319, Myus, 37.595556,27.429444, http://en.wikipedia.org/wiki/Myus
+1320, Nagidos, 36.099722,32.978056, http://en.wikipedia.org/wiki/Nagidos
+1321, Notion (ancient city), 37.992778,27.1975, http://en.wikipedia.org/wiki/Notion_(ancient_city)
+1322, Nysa (Caria), 37.901667,28.146667, http://en.wikipedia.org/wiki/Nysa_(Caria)
+1323, Nyssa (Cappadocia), 38.954295,33.959229, http://en.wikipedia.org/wiki/Nyssa_(Cappadocia)
+1324, Olba (ancient city), 36.580723,33.925101, http://en.wikipedia.org/wiki/Olba_(ancient_city)
+1325, Olympos (Lycia), 36.396667,30.473056, http://en.wikipedia.org/wiki/Olympos_(Lycia)
+1326, Oenoanda, 36.809167,29.549722, http://en.wikipedia.org/wiki/Oenoanda
+1327, Panionium, 37.703924,27.329993, http://en.wikipedia.org/wiki/Panionium
+1328, Patara (Lycia), 36.266217,29.317222, http://en.wikipedia.org/wiki/Patara_(Lycia)
+1329, Pednelissus, Pisidia, 37.221389,30.920556, http://en.wikipedia.org/wiki/Pednelissus,_Pisidia
+1330, Pepuza, 38.408056,29.461389, http://en.wikipedia.org/wiki/Pepuza
+1331, Perga, 36.961389,30.853889, http://en.wikipedia.org/wiki/Perga
+1332, Pergamon, 39.1325,27.184167, http://en.wikipedia.org/wiki/Pergamon
+1333, Pessinus, 39.333889,31.584444, http://en.wikipedia.org/wiki/Pessinus
+1334, Phaselis, 36.523611,30.552222, http://en.wikipedia.org/wiki/Phaselis
+1335, Phocaea, 38.6675,26.758056, http://en.wikipedia.org/wiki/Phocaea
+1336, Pinara, 36.488611,29.251944, http://en.wikipedia.org/wiki/Pinara
+1337, Pitane (Aeolis), 38.928056,26.937222, http://en.wikipedia.org/wiki/Pitane_(Aeolis)
+1338, Pompeiopolis, 41.517,34.213, http://en.wikipedia.org/wiki/Pompeiopolis
+1339, Priene, 37.659722,27.297778, http://en.wikipedia.org/wiki/Priene
+1340, Purushanda, 38.411389,33.835833, http://en.wikipedia.org/wiki/Purushanda
+1341, Arsuz, 36.416667,35.883333, http://en.wikipedia.org/wiki/Arsuz
+1342, Sagalassos, 37.678056,30.519444, http://en.wikipedia.org/wiki/Sagalassos
+1343, Sak%C3%A7ag%C3%B6z%C3%BC, 37.173333,36.925028, http://en.wikipedia.org/wiki/Sak%C3%A7ag%C3%B6z%C3%BC
+1344, Sam%27al, 37.103611,36.678611, http://en.wikipedia.org/wiki/Sam%27al
+1345, Samosata, 37.57955,38.481317, http://en.wikipedia.org/wiki/Samosata
+1346, Samuha, 38.1,38, http://en.wikipedia.org/wiki/Samuha
+1347, Sapinuwa, 40.266667,35.25, http://en.wikipedia.org/wiki/Sapinuwa
+1348, Sardis, 38.488333,28.040278, http://en.wikipedia.org/wiki/Sardis
+1349, Seleucia (Pamphylia), 36.874,31.476, http://en.wikipedia.org/wiki/Seleucia_(Pamphylia)
+1350, Seleucia Pieria, 36.124,35.922, http://en.wikipedia.org/wiki/Seleucia_Pieria
+1351, Selge, Pisidia, 37.229444,31.127222, http://en.wikipedia.org/wiki/Selge,_Pisidia
+1352, Sestos, 40.216667,26.383333, http://en.wikipedia.org/wiki/Sestos
+1353, Severan Bridge, 37.9324,38.6082, http://en.wikipedia.org/wiki/Severan_Bridge
+1354, Side, 36.766667,31.388889, http://en.wikipedia.org/wiki/Side
+1355, Sigeion, 39.973333,26.178056, http://en.wikipedia.org/wiki/Sigeion
+1356, Skepsis, 39.852778,26.803611, http://en.wikipedia.org/wiki/Skepsis
+1357, Smyrna, 38.418611,27.139167, http://en.wikipedia.org/wiki/Smyrna
+1358, Soli, Cilicia, 36.741944,34.54, http://en.wikipedia.org/wiki/Soli,_Cilicia
+1359, Stratonicea (Caria), 37.314722,28.065833, http://en.wikipedia.org/wiki/Stratonicea_(Caria)
+1360, Sultantepe, 37.050278,38.906111, http://en.wikipedia.org/wiki/Sultantepe
+1361, Tarsus, Mersin, 36.916667,34.895556, http://en.wikipedia.org/wiki/Tarsus,_Mersin
+1362, Tell Tayinat, 36.2475,36.376389, http://en.wikipedia.org/wiki/Tell_Tayinat
+1363, Telmessos, 36.622583,29.1115, http://en.wikipedia.org/wiki/Telmessos
+1364, Temnos, 38.6,27.066667, http://en.wikipedia.org/wiki/Temnos
+1365, Teos, 38.177222,26.785, http://en.wikipedia.org/wiki/Teos
+1366, Termessos, 36.9825,30.464722, http://en.wikipedia.org/wiki/Termessos
+1367, Tille H%C3%B6y%C3%BCk, 37.733333,38.883333, http://en.wikipedia.org/wiki/Tille_H%C3%B6y%C3%BCk
+1368, Tlos, 36.552536,29.420794, http://en.wikipedia.org/wiki/Tlos
+1369, Troy, 39.9575,26.238889, http://en.wikipedia.org/wiki/Troy
+1370, Tushhan, 37.79347,40.793047, http://en.wikipedia.org/wiki/Tushhan
+1371, Tushpa, 38.499667,43.341601, http://en.wikipedia.org/wiki/Tushpa
+1372, Tyana, 37.847918,34.611171, http://en.wikipedia.org/wiki/Tyana
+1373, Tymion, 38.487,29.4327, http://en.wikipedia.org/wiki/Tymion
+1374, Xanthos, 36.356111,29.318611, http://en.wikipedia.org/wiki/Xanthos
+1375, Yaz%C4%B1l%C4%B1kaya, 40.025,34.632778, http://en.wikipedia.org/wiki/Yaz%C4%B1l%C4%B1kaya
+1376, Yenikap%C4%B1, 41,28.95, http://en.wikipedia.org/wiki/Yenikap%C4%B1
+1377, Ye%C5%9Filova H%C3%B6y%C3%BCk, 38.4414,27.2139, http://en.wikipedia.org/wiki/Ye%C5%9Filova_H%C3%B6y%C3%BCk
+1378, Yumuktepe, 36.8,34.6, http://en.wikipedia.org/wiki/Yumuktepe
+1379, Merv, 37.662778,62.1925, http://en.wikipedia.org/wiki/Merv
+1380, Berezan Island, 46.6,31.41, http://en.wikipedia.org/wiki/Berezan_Island
+1381, Bilche Zolote, 48.7725,25.880833, http://en.wikipedia.org/wiki/Bilche_Zolote
+1382, Maydanets, 48.81,30.700278, http://en.wikipedia.org/wiki/Maydanets
+1383, Olbia, Ukraine, 46.6925,31.903611, http://en.wikipedia.org/wiki/Olbia,_Ukraine
+1384, Shypyntsi, 48.376667,25.750278, http://en.wikipedia.org/wiki/Shypyntsi
+1385, Talianki, 48.808333,30.548333, http://en.wikipedia.org/wiki/Talianki
+1386, Trypillia, 50.116667,30.766667, http://en.wikipedia.org/wiki/Trypillia
+1387, Avebury, 51.428611,-1.854167, http://en.wikipedia.org/wiki/Avebury
+1388, Bignor, 50.92293,-0.6013, http://en.wikipedia.org/wiki/Bignor
+1389, Caerleon, 51.615,-2.959, http://en.wikipedia.org/wiki/Caerleon
+1390, Callanish, 58.2,-6.74, http://en.wikipedia.org/wiki/Callanish
+1391, Calleva Atrebatum, 51.357222,-1.0825, http://en.wikipedia.org/wiki/Calleva_Atrebatum
+1392, Castell Henllys, 52.017222,-4.745, http://en.wikipedia.org/wiki/Castell_Henllys
+1393, Chew Stoke, 51.3507,-2.6383, http://en.wikipedia.org/wiki/Chew_Stoke
+1394, Chysauster Ancient Village, 50.161028,-5.540222, http://en.wikipedia.org/wiki/Chysauster_Ancient_Village
+1395, Cladh Hallan, 57.17116,-7.40759, http://en.wikipedia.org/wiki/Cladh_Hallan
+1396, Duggleby Howe, 54.0904,-0.6555, http://en.wikipedia.org/wiki/Duggleby_Howe
+1397, Fountains Abbey, 54.109722,-1.581389, http://en.wikipedia.org/wiki/Fountains_Abbey
+1398, Gough%27s Cave, 51.281389,-2.764167, http://en.wikipedia.org/wiki/Gough%27s_Cave
+1399, Grimes Graves, 52.47585,0.67541, http://en.wikipedia.org/wiki/Grimes_Graves
+1400, Hadrian%27s Wall, 55.024167,-2.2925, http://en.wikipedia.org/wiki/Hadrian%27s_Wall
+1401, Hen Domen, 52.5744,-3.1616, http://en.wikipedia.org/wiki/Hen_Domen
+1402, Inchmarnock, 55.79082,-5.15974, http://en.wikipedia.org/wiki/Inchmarnock
+1403, Ironbridge, 52.6277,-2.485, http://en.wikipedia.org/wiki/Ironbridge
+1404, Jorvik Viking Centre, 53.957778,-1.080556, http://en.wikipedia.org/wiki/Jorvik_Viking_Centre
+1405, Kirkstall Abbey, 53.82054,-1.60806, http://en.wikipedia.org/wiki/Kirkstall_Abbey
+1406, Little Woodbury, 51.05026,-1.78881, http://en.wikipedia.org/wiki/Little_Woodbury
+1407, Lullingstone, 51.35813,0.19318, http://en.wikipedia.org/wiki/Lullingstone
+1408, Maeshowe, 58.9966,-3.1882, http://en.wikipedia.org/wiki/Maeshowe
+1409, Maiden Castle, Dorset, 50.694495,-2.468192, http://en.wikipedia.org/wiki/Maiden_Castle,_Dorset
+1410, Mine Howe, 58.94,-2.85, http://en.wikipedia.org/wiki/Mine_Howe
+1411, Nempnett Thrubwell, 51.3379,-2.6798, http://en.wikipedia.org/wiki/Nempnett_Thrubwell
+1412, Perceton, 55.63075,-4.615694, http://en.wikipedia.org/wiki/Perceton
+1413, Ring of Brodgar, 59.002,-3.2287, http://en.wikipedia.org/wiki/Ring_of_Brodgar
+1414, Seahenge, 52.968056,0.521389, http://en.wikipedia.org/wiki/Seahenge
+1415, Silbury Hill, 51.415556,-1.8575, http://en.wikipedia.org/wiki/Silbury_Hill
+1416, Calleva Atrebatum, 51.357222,-1.0825, http://en.wikipedia.org/wiki/Calleva_Atrebatum
+1417, Skara Brae, 59.048611,-3.343056, http://en.wikipedia.org/wiki/Skara_Brae
+1418, Stanton Drew stone circles, 51.367797,-2.575257, http://en.wikipedia.org/wiki/Stanton_Drew_stone_circles
+1419, Star Carr, 54.214167,-0.423333, http://en.wikipedia.org/wiki/Star_Carr
+1420, Stonehenge, 51.178844,-1.826189, http://en.wikipedia.org/wiki/Stonehenge
+1421, Sutton Hoo, 52.08932,1.33842, http://en.wikipedia.org/wiki/Sutton_Hoo
+1422, Trelech, 51.945278,-4.500556, http://en.wikipedia.org/wiki/Trelech
+1423, Verulamium, 51.75,-0.3539, http://en.wikipedia.org/wiki/Verulamium
+1424, Windmill Hill, Avebury, 51.44153,-1.87622, http://en.wikipedia.org/wiki/Windmill_Hill,_Avebury
+1425, Woodhenge, 51.189631,-1.786739, http://en.wikipedia.org/wiki/Woodhenge
+1426, Wroxeter, 52.67,-2.648, http://en.wikipedia.org/wiki/Wroxeter
+1427, Yeavering, 55.568,-2.105, http://en.wikipedia.org/wiki/Yeavering
+1428, York, 53.958333,-1.080278, http://en.wikipedia.org/wiki/York
+1429, Barton Gulch, 45.2225,-112.113056, http://en.wikipedia.org/wiki/Barton_Gulch
+1430, Cahokia, 38.653889,-90.064444, http://en.wikipedia.org/wiki/Cahokia
+1431, Casa Grande Ruins National Monument, 32.997005,-111.532069, http://en.wikipedia.org/wiki/Casa_Grande_Ruins_National_Monument
+1432, Sitka, Alaska, 57.051561,-135.338642, http://en.wikipedia.org/wiki/Sitka,_Alaska
+1433, Koster Site, 39.209167,-90.549167, http://en.wikipedia.org/wiki/Koster_Site
+1434, Crystal River Archaeological State Park, 28.916944,-82.609167, http://en.wikipedia.org/wiki/Crystal_River_Archaeological_State_Park
+1435, Crystal River (Florida), 28.902479,-82.592601, http://en.wikipedia.org/wiki/Crystal_River_(Florida)
+1436, Gungywamp, 41.39,-72.06, http://en.wikipedia.org/wiki/Gungywamp
+1437, Groton, Connecticut, 41.3485,-72.0775, http://en.wikipedia.org/wiki/Groton,_Connecticut
+1438, Gunston Hall, 38.663889,-77.160278, http://en.wikipedia.org/wiki/Gunston_Hall
+1439, Jamestown, Virginia, 37.209167,-76.7775, http://en.wikipedia.org/wiki/Jamestown,_Virginia
+1440, Lubbock Lake Landmark, 33.621944,-101.889722, http://en.wikipedia.org/wiki/Lubbock_Lake_Landmark
+1441, Meadowcroft Rockshelter, 40.286389,-80.491667, http://en.wikipedia.org/wiki/Meadowcroft_Rockshelter
+1442, Mesa Verde National Park, 37.183784,-108.488687, http://en.wikipedia.org/wiki/Mesa_Verde_National_Park
+1443, Serpent Mound, 39.025858,-83.430444, http://en.wikipedia.org/wiki/Serpent_Mound
+1444, Snaketown, 33.183056,-111.92, http://en.wikipedia.org/wiki/Snaketown
+1445, St. Mary%27s City, Maryland, 38.189167,-76.432222, http://en.wikipedia.org/wiki/St._Mary%27s_City,_Maryland
+1446, Tibes Indigenous Ceremonial Center, 18.042236,-66.621781, http://en.wikipedia.org/wiki/Tibes_Indigenous_Ceremonial_Center
+1447, Ponce, Puerto Rico, 18,-66.616667, http://en.wikipedia.org/wiki/Ponce,_Puerto_Rico
+1448, Allendale, South Carolina, 33.008889,-81.308611, http://en.wikipedia.org/wiki/Allendale,_South_Carolina
+1449, Colonial Williamsburg, 37.2625,-76.699722, http://en.wikipedia.org/wiki/Colonial_Williamsburg
+1450, Whydah Gally, 41.892,-69.9594, http://en.wikipedia.org/wiki/Whydah_Gally
+1451, Bukhara, 39.766667,64.433333, http://en.wikipedia.org/wiki/Bukhara
+1452, Ma%27rib, 15.416667,45.35, http://en.wikipedia.org/wiki/Ma%27rib
+1453, Zafar, Yemen, 14.211389,44.403333, http://en.wikipedia.org/wiki/Zafar,_Yemen
+1454, Great Zimbabwe, -20.266667,30.933333, http://en.wikipedia.org/wiki/Great_Zimbabwe
