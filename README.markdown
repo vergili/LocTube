@@ -39,3 +39,22 @@ you gonna see a list on google map.
     open it  and change  
     ColumnProperty.ColumnComparator  with  ColumnProperty.Comparator 
     
+
+## CRAWLING TRAIN DATA from wikipedia for ancient cities 
+
+	run: 
+	python CrawlWiki.py  in the /crawler directory
+	it will create a LocationsList.txt file from 
+	http://en.wikipedia.org/wiki/List_of_archaeological_sites_by_country
+
+	this page includes many ancient cities information with coordinates 
+	Note: This crawling can be take long time if you do not want to wait a list from previous run added to same directory (/crawler/LocationsList.txt)
+
+## CRAWLING youtube videos 
+
+	connect to the site  http://127.0.0.1:5000  and  login with admin account:  admin:123456
+	click on admin on top right 3. link  and  then crawler tab 
+	Then copy and paste PART of LocationsList which we generate from previous section  in the text area then click send button. 
+	It will start crawling and ones it done  it will give you a flash message  with  id number of location and number of crawled entries.
+
+	
