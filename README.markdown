@@ -18,18 +18,21 @@ you gonna see a list on google map.
     $ pip install -r requirements.txt
     
     
-    change path for INSTANCE_FOLDER_PATH  in loctube/utils.py  
+change path for INSTANCE_FOLDER_PATH  in loctube/utils.py  
     
-    change SQLALCHEMY_DATABASE_URI for your database connection  in loctube/config.py
   
-	create database and your admin account:
+### Create database and your admin account:
+
+Change SQLALCHEMY_DATABASE_URI for your database connection  in loctube/config.py
+
     python manage.py initdb
  
-	Start: 
-    python manage.py run
+### Start: 
+    
+	python manage.py run
 
-	Open:
-    http://127.0.0.1:5000  
+Open:http://127.0.0.1:5000  
+
    
 ## BUG in the geoalchemy package
     geoalchmy package has a bug  to fix it please find   base.py  and apply belowe change. 
@@ -44,7 +47,7 @@ you gonna see a list on google map.
 
 	run: 
 
-	python CrawlWiki.py  in the /crawler directory
+	python CrawlWiki.py  # in the /crawler directory
 
 it will create a LocationsList.txt file from 
 http://en.wikipedia.org/wiki/List_of_archaeological_sites_by_country
@@ -54,9 +57,15 @@ Note: This crawling can be take long time if you do not want to wait a list from
 
 ## CRAWLING youtube videos 
 
-connect to the site  http://127.0.0.1:5000  and  login with admin account:  admin:123456
+Connect to the site  http://127.0.0.1:5000  and  login with admin account:  admin:123456
 click on admin on top right 3. link  and  then crawler tab 
 Then copy and paste PART of LocationsList which we generate from previous section  in the text area then click send button. 
 It will start crawling and ones it done  it will give you a flash message  with  id number of location and number of crawled entries.
+
+Note: Each of LocationList  entry  should be in below format  otherwise crawler will cancel it
+	
+	id, PlaceName, latitude, longitude, Link 
+	4, Balkh, 36.773056,66.873611, http://en.wikipedia.org/wiki/Balkh
+
 
 	
