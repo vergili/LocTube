@@ -1,6 +1,26 @@
 {% extends "admin/layout.html" %}
 
 {% block body %}
+{% if pagination.pages > 1 %}
+<div class='pagination'>
+    <ul>
+        <li class="prev {% if not pagination.has_prev %}disabled{% endif %}"><a href="{{ url_for('admin.videos', page=pagination.page-1) }}">&larr; Previous</a></li>
+        {% for page in pagination.iter_pages() %}
+        {% if page %}
+        <li class='{% if page == pagination.page %}active{% endif %}'>
+            <a href='{{ url_for(' admin.videos', page=page) }}'>{{ page }}</a>
+        </li>
+        {% else %}
+        <li>
+            <a href='#'>...</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+        <li class="next {% if not pagination.has_next %}disabled{% endif %}"><a href="{{ url_for('admin.videos', page=pagination.page+1) }}">Next &rarr;</a></li>
+    </ul>
+</div>
+{% endif %}
+
 <div class="container">
     <h2>Videos</h2>
     <table class='table table-bordered table-hover'>
@@ -12,7 +32,7 @@
                 <th></th>
             </tr>
         </thead>
-        {% for video in videos %}
+        {% for video in pagination.items %}
         <tr>
             <td>{{ video.id }}</td>
             <td>{{ video.title }}</td>
@@ -22,4 +42,24 @@
         {% endfor %}
     </table>
 </div>
+{% if pagination.pages > 1 %}
+<div class='pagination'>
+    <ul>
+        <li class="prev {% if not pagination.has_prev %}disabled{% endif %}"><a href="{{ url_for('admin.videos', page=pagination.page-1) }}">&larr; Previous</a></li>
+        {% for page in pagination.iter_pages() %}
+        {% if page %}
+        <li class='{% if page == pagination.page %}active{% endif %}'>
+            <a href='{{ url_for(' admin.videos', page=page) }}'>{{ page }}</a>
+        </li>
+        {% else %}
+        <li>
+            <a href='#'>...</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+        <li class="next {% if not pagination.has_next %}disabled{% endif %}"><a href="{{ url_for('admin.videos', page=pagination.page+1) }}">Next &rarr;</a></li>
+    </ul>
+</div>
+{% endif %}
+
 {% endblock %}

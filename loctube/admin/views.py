@@ -68,8 +68,12 @@ def user(user_id):
 @login_required
 @admin_required
 def videos():
-    videos = Video.query.all()
-    return render_template('admin/videos.html', videos=videos, active='videos')
+  
+    pagination = None
+    page = int(request.args.get('page', 1))
+    pagination = Video.query.paginate(page=page, per_page=50)
+  
+    return render_template('admin/videos.html', pagination=pagination, active='videos')
 
 
 @admin.route('/video/<int:video_id>', methods=['GET', 'POST'])
