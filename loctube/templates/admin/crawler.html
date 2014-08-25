@@ -1,0 +1,12 @@
+{% extends "admin/layout.html" %}
+
+{% from "macros/_form.html" import render_form %}
+
+
+
+{% block body %}
+<div class="container">
+    <h2>Crawler</h2>
+    {{ render_form(url_for('admin.crawler'), form) }}
+</div>
+{% endblock %}

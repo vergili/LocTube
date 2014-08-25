@@ -1,0 +1,25 @@
+{% extends "admin/layout.html" %}
+
+{% block body %}
+<div class="container">
+    <h2>Videos</h2>
+    <table class='table table-bordered table-hover'>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Title</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        {% for video in videos %}
+        <tr>
+            <td>{{ video.id }}</td>
+            <td>{{ video.title }}</td>
+            <td><a href="{{ url_for('admin.video', video_id=video.id) }}">Edit</a></td>
+            <td><a href="{{ url_for('admin.delete_video', video_id=video.id) }}">Delete</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}

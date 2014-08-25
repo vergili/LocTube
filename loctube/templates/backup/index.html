@@ -1,0 +1,159 @@
+{% extends 'layouts/base.html' %}
+
+{% set page_title = 'Home' %}
+
+{% block container %}
+
+<style>
+    #map_canvas {
+        width: 100%;
+        height: 90%;
+        float: left;
+    }
+
+    body {
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    html {
+        height: 100%;
+    }
+    #infoWin {
+        width: 530px;
+    }
+    .image {
+        width: 160px;
+        max-width: 160px;
+        height: 90px;
+        max-height: 90px;
+        border: 1px solid yellow;
+        margin: 0 1px 1px 0;
+    }
+
+</style>
+
+
+<script src="http://www.youtube.com/player_api"></script>
+
+<script type="text/javascript">
+
+    var map, marker, infowindow, loading;
+    //var infowindow = new google.maps.InfoWindow(); // Global declaration of the infowindow
+
+    function initialize() {
+        var latlng = new google.maps.LatLng(38.4220, 27.1290); //marker position Turkey - izmir
+
+        var myOptions = {
+            zoom: 5,
+            center: latlng,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+
+        map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+        marker = new google.maps.Marker({
+            position: latlng,
+            map: map,
+            draggable: true
+        });
+
+        infowindow = new google.maps.InfoWindow({
+            content: "To see the video results, please drag the marker anywhere on the Map",
+            maxWidth: 800,
+            minWidth: 800,
+
+        });
+
+        loading = new google.maps.InfoWindow({
+            content: "Please wait ...",
+            maxWidth: 800,
+            minWidth: 800,
+
+        });
+
+        infowindow.open(map, marker);
+
+
+        google.maps.event.addListener(marker, "dragstart", function () {
+            infowindow.close();
+        });
+
+
+        google.maps.event.addListener(marker, "dragend", function () {
+
+            loading.open(map, marker);
+
+            showMap(marker.getPosition());
+            map.setCenter(marker.getPosition());
+            //map.panTo(marker.getPosition());
+
+        });
+
+        //google.maps.event.trigger(marker, "click");
+    }
+
+    function showMap(pos) {
+
+        var con = pos.lat() + ',' + pos.lng(); // for google map
+        //var con = pos.lng() + ',' + pos.lat();
+
+        //infowindow = new google.maps.InfoWindow({ content: con });
+        //infowindow.open(map, marker);
+
+        $.ajax({
+            type: "POST",
+            url: "{{ url_for('admin.video_search') }}",
+            data: JSON.stringify(con, null, '\t'),
+            contentType: 'application/json;charset=UTF-8',
+            success: function (dictionary) {
+                if (infowindow) { infowindow.close(); }
+
+                var html = "";
+
+                var data = dictionary.feed.entry;
+
+                if (data != null) {
+
+                    for (var i in data) {
+
+                        var link = data[i]['link'][0]['href'];
+
+                        var id = link.split("v=")[1].substring(0, 11);
+
+                        var thumbnail = "http://i3.ytimg.com/vi/" + id + "/default.jpg";
+
+                        var url = "http://www.youtube.com/embed/" + id + "?enablejsapi=1&wmode=opaque";
+
+                        html += '<a class="fancybox fancybox.iframe" href="' + url +  '" title="' + data[i].title['$t'] + '"> <img class="image" src="' + thumbnail + '" /></a>';
+
+                    }
+                }
+                else {
+
+                    html = 'I am sory there is no videos related with this location. Please move the marker to another location.';
+
+                }
+
+
+                infowindow = new google.maps.InfoWindow({
+                    content: "<div id='infoWin'>" + html + "</div>"
+                });
+
+                infowindow.open(map, marker);
+                loading.close();
+
+            }
+        });
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);
+
+</script>
+
+
+<div id="map_canvas"></div>
+
+
+{% endblock %}
