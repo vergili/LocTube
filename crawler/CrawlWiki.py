@@ -21,7 +21,7 @@ for a in allLinks:
 
 CoordinateList=[];
 
-LocationFile = open("D:\outputs\LocationsList_0.txt", "w")
+LocationFile = open("LocationsList_0.txt", "w")
 
 i=1;
 for a in listOfCity:
@@ -51,7 +51,7 @@ for a in listOfCity:
         else:
             LocationFile.close();
             print "LocationsFile " + str(i/30) + " ready for video crawling. Copy the list and past on crawler text area on the loctube site"
-            file_name = "D:\outputs\LocationsList_" + str(i/30) + ".txt"
+            file_name = "LocationsList_" + str(i/30) + ".txt"
             LocationFile = open(file_name, "w")
 
         i+=1
